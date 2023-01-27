@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
 }
 
 class MyAppState extends ChangeNotifier {
-  var current = "";
+  var current = "{Name: Ljósbjört, Description: björt sem ljós., Gender: F}";
   var names = ["Li", "gu", "smith"];
   var temp = "";
   var current_description = "test";
@@ -59,8 +59,7 @@ class MyAppState extends ChangeNotifier {
 
   void getNext() {
     j = Random().nextInt(jsonData.length);
-    current = jsonData[j]["Name"];
-    print(jsonData[1]);
+    current = jsonData[j].toString();
     //persons.add(current.toString());
     notifyListeners();
     print('check $current');
@@ -68,7 +67,7 @@ class MyAppState extends ChangeNotifier {
   }
 
   void addPickedNames() {
-    persons.add(jsonData[j].toString());
+    persons.add(current);
     notifyListeners();
   }
 
@@ -77,13 +76,7 @@ class MyAppState extends ChangeNotifier {
     notifyListeners();
   }
 
-  void flipCard(value) {
-    if (flipped == false) {
-      temp = value;
-      current = jsonData[j]["Description"];
-    } else {
-      current = temp;
-    }
+  void flipCard() {
     flipped = !flipped;
     //current = value;
     notifyListeners();
@@ -176,8 +169,7 @@ class GeneratorPage extends StatelessWidget {
     appState.initializeNames();
     var pair = appState.current;
     var person_list = appState.persons;
-    var list_test = [];
-    var test = "temp";
+    var display_text;
 
     return Center(
       child: Column(
@@ -192,7 +184,6 @@ class GeneratorPage extends StatelessWidget {
               SizedBox(
                 child: ElevatedButton(
                   onPressed: () {
-                    print("test $test");
                     //appState.initializeName();
                     appState.getNext();
                     appState.addPickedNames();
@@ -224,13 +215,29 @@ class BigButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    var split = pair.split(':');
+    var name = split[1].split(',')[0];
+    var description = split[2].split(', Gender')[0];
+    var gender = split[3][1];
     var theme = Theme.of(context);
+    //description = description.capitalize();
+    var color = theme.colorScheme.primary;
+    if (gender == 'F') {
+      print("yesyesyes");
+      color = Color.fromARGB(198, 244, 168, 229);
+    }
     var appState = context.watch<MyAppState>();
+    var flipBoolean = appState.flipped;
+    var display_text = name;
+    if (flipBoolean == true) {
+      display_text = description;
+    }
     var boxStyle = ElevatedButton.styleFrom(
-        backgroundColor: theme.colorScheme.secondary,
+        backgroundColor: color,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(30.0),
         ));
+
 
     var fontStyle = theme.textTheme.displayMedium!.copyWith(
       color: theme.colorScheme.onSecondary,
@@ -243,10 +250,10 @@ class BigButton extends StatelessWidget {
       height: 200,
       child: ElevatedButton(
           onPressed: () {
-            appState.flipCard(pair);
+            appState.flipCard();
           },
           style: boxStyle,
-          child: Text("$pair", style: fontStyle)),
+          child: Text("$display_text", style: fontStyle)),
     );
   }
 }

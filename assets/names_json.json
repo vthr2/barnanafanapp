@@ -46,17 +46,17 @@
   },
   {
     "Name": "Adrían",
-    "Description": "af Hadrianus: frá Hadria. Hadria var bær í norður Ítalíu, Adriatic Sea hefur nafn sitt þaðan",
+    "Description": "af Hadrianus; frá Hadria. Hadria var bær í norður Ítalíu, Adriatic Sea hefur nafn sitt þaðan",
     "Gender": "M"
   },
   {
     "Name": "Agnar",
-    "Description": "norrænt nafn dregið af agi: ógn, og -arr sem er stytting á fornnorrænu orði harjaR: hermaður",
+    "Description": "norrænt nafn dregið af agi; ógn, og -arr sem er stytting á fornnorrænu orði harjaR; hermaður",
     "Gender": "M"
   },
   {
     "Name": "Ágúst",
-    "Description": "úr latínu Augustus: virðulegur, göfugur. Upphaflega heiðurstitill. Ágúst keisari (Lúk. 2,1)",
+    "Description": "úr latínu Augustus; virðulegur, göfugur. Upphaflega heiðurstitill. Ágúst keisari (Lúk. 2,1)",
     "Gender": "M"
   },
   {
@@ -66,12 +66,12 @@
   },
   {
     "Name": "Albert",
-    "Description": "úr þýsku, dregið af aðal, göfugur, og bjartur eða borinn: ættgöfugur",
+    "Description": "úr þýsku, dregið af aðal, göfugur, og bjartur eða borinn; ættgöfugur",
     "Gender": "M"
   },
   {
     "Name": "Alexander",
-    "Description": "úr grísku: verndari, eða bjargvættur manna. Alexander mikli í Makedóníu (d. 323 f. Kr.)",
+    "Description": "úr grísku; verndari, eða bjargvættur manna. Alexander mikli í Makedóníu (d. 323 f. Kr.)",
     "Gender": "M"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "Name": "Alfreð",
-    "Description": "úr ensku: álfur- og friður, eða álfur og ráð",
+    "Description": "úr ensku; álfur- og friður, eða álfur og ráð",
     "Gender": "M"
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "Name": "Allan",
-    "Description": "úr ensku eða keltnesku og merkir þá líklega: samræmi",
+    "Description": "úr ensku eða keltnesku og merkir þá líklega; samræmi",
     "Gender": "M"
   },
   {
     "Name": "Almar",
-    "Description": "norrænt nafn, sennilega álmur, tré, sem notað var í boga, og -arr: hermaður",
+    "Description": "norrænt nafn, sennilega álmur, tré, sem notað var í boga, og -arr; hermaður",
     "Gender": "M"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "Name": "Árelíus",
-    "Description": "úr latínu: gullinn",
+    "Description": "úr latínu; gullinn",
     "Gender": "M"
   },
   {
@@ -151,12 +151,12 @@
   },
   {
     "Name": "Arinbjörn",
-    "Description": "arinn: heimili, og björn",
+    "Description": "arinn; heimili, og björn",
     "Gender": "M"
   },
   {
     "Name": "Ármann",
-    "Description": "ármaður: umboðsmaður",
+    "Description": "ármaður; umboðsmaður",
     "Gender": "M"
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "Name": "Arnfinnur",
-    "Description": "arinn og Finnur: (finnskur-) maður",
+    "Description": "arinn og Finnur; (finnskur-) maður",
     "Gender": "M"
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "Name": "Arngrímur",
-    "Description": "örn, eða arinn, og grímur: dulbúinn maður",
+    "Description": "örn, eða arinn, og grímur; dulbúinn maður",
     "Gender": "M"
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "Name": "Arnljótur",
-    "Description": "-ljótur er dregið af fornnorrænu orði sem merkir bjartur, ljós: birta heimilisins. Á fyrstu öldum Íslandsbyggðar var Ljótur eitt algengasta nafn hér á landi",
+    "Description": "-ljótur er dregið af fornnorrænu orði sem merkir bjartur, ljós; birta heimilisins. Á fyrstu öldum Íslandsbyggðar var Ljótur eitt algengasta nafn hér á landi",
     "Gender": "M"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "Name": "Arnviður",
-    "Description": "-viður: skógur tré",
+    "Description": "-viður; skógur tré",
     "Gender": "M"
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "Name": "Ásólfur",
-    "Description": "-ólfur: úlfur",
+    "Description": "-ólfur; úlfur",
     "Gender": "M"
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "Name": "Ástmar",
-    "Description": "Ást- eða Ás- og -mar: frægur",
+    "Description": "Ást- eða Ás- og -mar; frægur",
     "Gender": "M"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "Name": "Auðbergur",
-    "Description": "auðnu- bergur: bjargvættur",
+    "Description": "auðnu- bergur; bjargvættur",
     "Gender": "M"
   },
   {
@@ -351,7 +351,7 @@
   },
   {
     "Name": "Axel",
-    "Description": "forn dönsk mynd hebreska nafnsins Absalon (: friðarfaðir)",
+    "Description": "forn dönsk mynd hebreska nafnsins Absalon (; friðarfaðir)",
     "Gender": "M"
   },
   {
@@ -391,12 +391,12 @@
   },
   {
     "Name": "Benjamín",
-    "Description": "hebreska: hamingjusonur (1. Mós. 35,18)",
+    "Description": "hebreska; hamingjusonur (1. Mós. 35,18)",
     "Gender": "M"
   },
   {
     "Name": "Benóní",
-    "Description": "hebreska: harmasonur (1. Mós. 35, 18, 24)",
+    "Description": "hebreska; harmasonur (1. Mós. 35, 18, 24)",
     "Gender": "M"
   },
   {
@@ -501,12 +501,12 @@
   },
   {
     "Name": "Bjarkar",
-    "Description": "Nafnið er trúlega myndað með hliðsjón af kvenmannsnafninu,Björk með viðskeytinu -ar: hermaður",
+    "Description": "Nafnið er trúlega myndað með hliðsjón af kvenmannsnafninu,Björk með viðskeytinu -ar; hermaður",
     "Gender": "M"
   },
   {
     "Name": "Bjarki",
-    "Description": "annað hvort dregið af birki, eða merkir: lítill björn",
+    "Description": "annað hvort dregið af birki, eða merkir; lítill björn",
     "Gender": "M"
   },
   {
@@ -561,7 +561,7 @@
   },
   {
     "Name": "Bóas",
-    "Description": "úr hebresku: í mætti (Rut. 2,1)",
+    "Description": "úr hebresku; í mætti (Rut. 2,1)",
     "Gender": "M"
   },
   {
@@ -576,7 +576,7 @@
   },
   {
     "Name": "Borgar",
-    "Description": "borg: vörn, vígi, og -ar: hermaður",
+    "Description": "borg; vörn, vígi, og -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -711,7 +711,7 @@
   },
   {
     "Name": "Daníel",
-    "Description": "úr hebresku: Guð er dómari minn (Esek. 14,14)",
+    "Description": "úr hebresku; Guð er dómari minn (Esek. 14,14)",
     "Gender": "M"
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "Name": "Dýri",
-    "Description": "ágætur maður, eða dregið af dýr: dádýr",
+    "Description": "ágætur maður, eða dregið af dýr; dádýr",
     "Gender": "M"
   },
   {
@@ -776,12 +776,12 @@
   },
   {
     "Name": "Eggert",
-    "Description": "úr þýsku: egg-harður",
+    "Description": "úr þýsku; egg-harður",
     "Gender": "M"
   },
   {
     "Name": "Egill",
-    "Description": "sennilega skylt agi og ótti, ógn: ógurlegur",
+    "Description": "sennilega skylt agi og ótti, ógn; ógurlegur",
     "Gender": "M"
   },
   {
@@ -821,7 +821,7 @@
   },
   {
     "Name": "Elfar",
-    "Description": "af kvenmannsnafninu Elfa: elfur, fljót",
+    "Description": "af kvenmannsnafninu Elfa; elfur, fljót",
     "Gender": "M"
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "Name": "Ellert",
-    "Description": "úr þýsku, Eilert: eggharður",
+    "Description": "úr þýsku, Eilert; eggharður",
     "Gender": "M"
   },
   {
@@ -861,7 +861,7 @@
   },
   {
     "Name": "Elmar",
-    "Description": "af élmar: skip, eða samsett af t.d. Elías og Mar-. Önnur merking er úr fornensku Æthelmær sem er samsett af forliðnum Æthel-, sem merki aðal, og viðliðnum -mær, sem merkir frægur",
+    "Description": "af élmar; skip, eða samsett af t.d. Elías og Mar-. Önnur merking er úr fornensku Æthelmær sem er samsett af forliðnum Æthel-, sem merki aðal, og viðliðnum -mær, sem merkir frægur",
     "Gender": "M"
   },
   {
@@ -871,7 +871,7 @@
   },
   {
     "Name": "Emanúel",
-    "Description": "úr hebresku: Immanúel, sem þýðir Guð með oss",
+    "Description": "úr hebresku; Immanúel, sem þýðir Guð með oss",
     "Gender": "M"
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "Name": "Enok",
-    "Description": "úr hebresku: helgaður (1. Mós. 5, 18,24)",
+    "Description": "úr hebresku; helgaður (1. Mós. 5, 18,24)",
     "Gender": "M"
   },
   {
@@ -901,7 +901,7 @@
   },
   {
     "Name": "Erlingur",
-    "Description": "norrænt nafn, sem merkir: af jarlsættum",
+    "Description": "norrænt nafn, sem merkir; af jarlsættum",
     "Gender": "M"
   },
   {
@@ -961,7 +961,7 @@
   },
   {
     "Name": "Felix",
-    "Description": "úr latínu: farsæll",
+    "Description": "úr latínu; farsæll",
     "Gender": "M"
   },
   {
@@ -981,7 +981,7 @@
   },
   {
     "Name": "Filippus",
-    "Description": "grískt nafn: hestavinur. 1/5. Filippus postuli",
+    "Description": "grískt nafn; hestavinur. 1/5. Filippus postuli",
     "Gender": "M"
   },
   {
@@ -1006,7 +1006,7 @@
   },
   {
     "Name": "Fjölnir",
-    "Description": "Óðinsheiti: fjölvís",
+    "Description": "Óðinsheiti; fjölvís",
     "Gender": "M"
   },
   {
@@ -1016,12 +1016,12 @@
   },
   {
     "Name": "Flosi",
-    "Description": "líkleg merking: léttúðugur maður",
+    "Description": "líkleg merking; léttúðugur maður",
     "Gender": "M"
   },
   {
     "Name": "Frank",
-    "Description": "úr ensku, stytting á Franciscus: franskur maður",
+    "Description": "úr ensku, stytting á Franciscus; franskur maður",
     "Gender": "M"
   },
   {
@@ -1036,7 +1036,7 @@
   },
   {
     "Name": "Freyr",
-    "Description": "frjósemisguðinn í norrænni goðafræði. Upphafleg merking: konungur",
+    "Description": "frjósemisguðinn í norrænni goðafræði. Upphafleg merking; konungur",
     "Gender": "M"
   },
   {
@@ -1091,7 +1091,7 @@
   },
   {
     "Name": "Friðrik",
-    "Description": "úr þýsku: friðsamur höfðingi. Danakonungar hafa stuðlað að vinsældum nafnsins á Íslandi. Sr. Friðrik Friðriksson æskulýðsleiðtogi (1869-1961)",
+    "Description": "úr þýsku; friðsamur höfðingi. Danakonungar hafa stuðlað að vinsældum nafnsins á Íslandi. Sr. Friðrik Friðriksson æskulýðsleiðtogi (1869-1961)",
     "Gender": "M"
   },
   {
@@ -1181,7 +1181,7 @@
   },
   {
     "Name": "Geirharður",
-    "Description": "úr þýsku: sterkur, harður sem spjót",
+    "Description": "úr þýsku; sterkur, harður sem spjót",
     "Gender": "M"
   },
   {
@@ -1196,7 +1196,7 @@
   },
   {
     "Name": "Georg",
-    "Description": "úr grísku: bóndi. 23/4. heilagur Georg er verndardýrlingur Englands",
+    "Description": "úr grísku; bóndi. 23/4. heilagur Georg er verndardýrlingur Englands",
     "Gender": "M"
   },
   {
@@ -1216,7 +1216,7 @@
   },
   {
     "Name": "Gissur",
-    "Description": "Óðinsheiti: vitur maður, getspakur. Gissur jarl Þorvaldsson (d. 1268)",
+    "Description": "Óðinsheiti; vitur maður, getspakur. Gissur jarl Þorvaldsson (d. 1268)",
     "Gender": "M"
   },
   {
@@ -1231,12 +1231,12 @@
   },
   {
     "Name": "Gottfreð",
-    "Description": "úr þýsku: friður Guðs",
+    "Description": "úr þýsku; friður Guðs",
     "Gender": "M"
   },
   {
     "Name": "Gottlieb",
-    "Description": "þýskt nafn: sá sem Guð elskar",
+    "Description": "þýskt nafn; sá sem Guð elskar",
     "Gender": "M"
   },
   {
@@ -1326,17 +1326,17 @@
   },
   {
     "Name": "Guðmar",
-    "Description": "Guð og -mar: frægur",
+    "Description": "Guð og -mar; frægur",
     "Gender": "M"
   },
   {
     "Name": "Guðmundur",
-    "Description": "gjöf eða vörn Guðs. 16/3. Gvendardagur: Guðmundur biskup Arason, hinn góði (d. 1237)",
+    "Description": "gjöf eða vörn Guðs. 16/3. Gvendardagur; Guðmundur biskup Arason, hinn góði (d. 1237)",
     "Gender": "M"
   },
   {
     "Name": "Guðni",
-    "Description": "úr ensku (Godwin): vinur Guðs. Eldri mynd nafnsins er Guðini",
+    "Description": "úr ensku (Godwin); vinur Guðs. Eldri mynd nafnsins er Guðini",
     "Gender": "M"
   },
   {
@@ -1371,7 +1371,7 @@
   },
   {
     "Name": "Gunnar",
-    "Description": "stríðsmaður, bardagamaður, myndað af gunnur, orrusta og -ar: hermaður",
+    "Description": "stríðsmaður, bardagamaður, myndað af gunnur, orrusta og -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -1411,12 +1411,12 @@
   },
   {
     "Name": "Gústaf",
-    "Description": "úr fornsænsku: Gautstafur, stafur, stoð Gautlendinga",
+    "Description": "úr fornsænsku; Gautstafur, stafur, stoð Gautlendinga",
     "Gender": "M"
   },
   {
     "Name": "Guttormur",
-    "Description": "Guð- og þormur: sem Guð þyrmir, hlífir",
+    "Description": "Guð- og þormur; sem Guð þyrmir, hlífir",
     "Gender": "M"
   },
   {
@@ -1446,7 +1446,7 @@
   },
   {
     "Name": "Hákon",
-    "Description": "há: af hár, upphafinn, göfugur, Óðinsheiti, -kon: afkomandi, niðji. Niðji hins göfuga. Hákon gamli, Noregskonungur (d. 1263) fyrsti konungur Íslands",
+    "Description": "há; af hár, upphafinn, göfugur, Óðinsheiti, -kon; afkomandi, niðji. Niðji hins göfuga. Hákon gamli, Noregskonungur (d. 1263) fyrsti konungur Íslands",
     "Gender": "M"
   },
   {
@@ -1606,7 +1606,7 @@
   },
   {
     "Name": "Heimir",
-    "Description": "fornsögunafn, ef til vill skylt heimur eða no. heimi: heimili",
+    "Description": "fornsögunafn, ef til vill skylt heimur eða no. heimi; heimili",
     "Gender": "M"
   },
   {
@@ -1686,7 +1686,7 @@
   },
   {
     "Name": "Hildibrandur",
-    "Description": "af hildur: orrusta og brandur: sverð",
+    "Description": "af hildur; orrusta og brandur; sverð",
     "Gender": "M"
   },
   {
@@ -1711,17 +1711,17 @@
   },
   {
     "Name": "Hilmar",
-    "Description": "úr sænsku, af hilm: hjálmbúinn og -ar: hermaður",
+    "Description": "úr sænsku, af hilm; hjálmbúinn og -ar; hermaður",
     "Gender": "M"
   },
   {
     "Name": "Hilmir",
-    "Description": "fornsagnanafn: maður með hjálm. Konungur",
+    "Description": "fornsagnanafn; maður með hjálm. Konungur",
     "Gender": "M"
   },
   {
     "Name": "Hinrik",
-    "Description": "úr þýsku: Heinrekur: sá sem er valdamikill heima",
+    "Description": "úr þýsku; Heinrekur; sá sem er valdamikill heima",
     "Gender": "M"
   },
   {
@@ -1731,7 +1731,7 @@
   },
   {
     "Name": "Hjálmtýr",
-    "Description": "hjálmur og týr: goð, hetja, eða þjónn. Hermannakenning",
+    "Description": "hjálmur og týr; goð, hetja, eða þjónn. Hermannakenning",
     "Gender": "M"
   },
   {
@@ -1741,7 +1741,7 @@
   },
   {
     "Name": "Hjalti",
-    "Description": "af sverðshjalt: handhlíf á sverði",
+    "Description": "af sverðshjalt; handhlíf á sverði",
     "Gender": "M"
   },
   {
@@ -1761,12 +1761,12 @@
   },
   {
     "Name": "Hjörvar",
-    "Description": "sem nýtur verndar hjörs: sverðs",
+    "Description": "sem nýtur verndar hjörs; sverðs",
     "Gender": "M"
   },
   {
     "Name": "Hlíðar",
-    "Description": "hlíð og -ar: hermaður",
+    "Description": "hlíð og -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -1801,7 +1801,7 @@
   },
   {
     "Name": "Hólmar",
-    "Description": "hómur, vígvöllur og -ar: hermaður",
+    "Description": "hómur, vígvöllur og -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -1816,7 +1816,7 @@
   },
   {
     "Name": "Hólmkell",
-    "Description": "hólmur og ketill: hjálmur",
+    "Description": "hólmur og ketill; hjálmur",
     "Gender": "M"
   },
   {
@@ -1831,17 +1831,17 @@
   },
   {
     "Name": "Hrafnkell",
-    "Description": "hrafn og ketill: hjálmur",
+    "Description": "hrafn og ketill; hjálmur",
     "Gender": "M"
   },
   {
     "Name": "Hrannar",
-    "Description": "af hrönn: alda, og -ar: hermaður. sjómaður, sæfari",
+    "Description": "af hrönn; alda, og -ar; hermaður. sjómaður, sæfari",
     "Gender": "M"
   },
   {
     "Name": "Hreggviður",
-    "Description": "hregg: stormur, og viður: tré, fornsagnanafn, sem á síðari tímum birtist sem föðurnafn Jóns Hreggviðsson (f. 1650)",
+    "Description": "hregg; stormur, og viður; tré, fornsagnanafn, sem á síðari tímum birtist sem föðurnafn Jóns Hreggviðsson (f. 1650)",
     "Gender": "M"
   },
   {
@@ -1866,7 +1866,7 @@
   },
   {
     "Name": "Hróar",
-    "Description": "af hróður: frægð, og -ar: hermaður",
+    "Description": "af hróður; frægð, og -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -1891,7 +1891,7 @@
   },
   {
     "Name": "Hrollaugur",
-    "Description": "af hróð- laugur: frægur og bjartur",
+    "Description": "af hróð- laugur; frægur og bjartur",
     "Gender": "M"
   },
   {
@@ -1911,7 +1911,7 @@
   },
   {
     "Name": "Húnbogi",
-    "Description": "hún: bjarnardýrsungi, og bogi. Forliðurinn gæti líka átt við þjóðina Húna",
+    "Description": "hún; bjarnardýrsungi, og bogi. Forliðurinn gæti líka átt við þjóðina Húna",
     "Gender": "M"
   },
   {
@@ -1931,7 +1931,7 @@
   },
   {
     "Name": "Hörður",
-    "Description": "annað hvort: hinn harði, eða: maður frá Hörðalandi (fylgi í Noregi)",
+    "Description": "annað hvort; hinn harði, eða; maður frá Hörðalandi (fylgi í Noregi)",
     "Gender": "M"
   },
   {
@@ -1981,7 +1981,7 @@
   },
   {
     "Name": "Ingimar",
-    "Description": "Ingi og -mar: frægur konungur",
+    "Description": "Ingi og -mar; frægur konungur",
     "Gender": "M"
   },
   {
@@ -1991,7 +1991,7 @@
   },
   {
     "Name": "Ingjaldur",
-    "Description": "af Ingvaldur: máttur konungs",
+    "Description": "af Ingvaldur; máttur konungs",
     "Gender": "M"
   },
   {
@@ -2026,7 +2026,7 @@
   },
   {
     "Name": "Ísidór",
-    "Description": "úr grísku: gjöf gyðjunnar Ísisar",
+    "Description": "úr grísku; gjöf gyðjunnar Ísisar",
     "Gender": "M"
   },
   {
@@ -2036,7 +2036,7 @@
   },
   {
     "Name": "Ísleifur",
-    "Description": "ís og leifur: erfingi. Hugsanlegt er að forliðurinn Ís sé dreginn af forna orðinu Ísarn, sem merkir járn. Ísleifur Gissurarson, biskup í Skálholti (1056-1080)",
+    "Description": "ís og leifur; erfingi. Hugsanlegt er að forliðurinn Ís sé dreginn af forna orðinu Ísarn, sem merkir járn. Ísleifur Gissurarson, biskup í Skálholti (1056-1080)",
     "Gender": "M"
   },
   {
@@ -2051,7 +2051,7 @@
   },
   {
     "Name": "Ívar",
-    "Description": "annað hvort ýviður, viðarheiti, og -ar: hermaður, þ.e. hermaður vopnaður ýviðarboga, eða dregið af Ívi: sækonungur og -ar",
+    "Description": "annað hvort ýviður, viðarheiti, og -ar; hermaður, þ.e. hermaður vopnaður ýviðarboga, eða dregið af Ívi; sækonungur og -ar",
     "Gender": "M"
   },
   {
@@ -2081,7 +2081,7 @@
   },
   {
     "Name": "Játvarður",
-    "Description": "sama nafn og Eðvarð. Úr engilsaxnesku Eadweard: sá sem nýtur verndar auðnu, hamingju",
+    "Description": "sama nafn og Eðvarð. Úr engilsaxnesku Eadweard; sá sem nýtur verndar auðnu, hamingju",
     "Gender": "M"
   },
   {
@@ -2096,12 +2096,12 @@
   },
   {
     "Name": "Jóakim",
-    "Description": "úr hebresku: Drottinn reisir við. 16/8. Jóakim í Nasaret, faðir Maríu meyjar",
+    "Description": "úr hebresku; Drottinn reisir við. 16/8. Jóakim í Nasaret, faðir Maríu meyjar",
     "Gender": "M"
   },
   {
     "Name": "Jóel",
-    "Description": "úr hebresku: Drottinn er Guð",
+    "Description": "úr hebresku; Drottinn er Guð",
     "Gender": "M"
   },
   {
@@ -2111,7 +2111,7 @@
   },
   {
     "Name": "Jóhannes",
-    "Description": "úr hebresku: Jochanan: Drottinn er náðugur (Matt. 3,1 og 4,21). 24/6. Jóhannes skírari. 27/3. Jóhannes postuli",
+    "Description": "úr hebresku; Jochanan; Drottinn er náðugur (Matt. 3,1 og 4,21). 24/6. Jóhannes skírari. 27/3. Jóhannes postuli",
     "Gender": "M"
   },
   {
@@ -2141,12 +2141,12 @@
   },
   {
     "Name": "Jónmundur",
-    "Description": "samsett af Jón og -mundur: gjöf",
+    "Description": "samsett af Jón og -mundur; gjöf",
     "Gender": "M"
   },
   {
     "Name": "Jósafat",
-    "Description": "úr hebresku: Drottinn hefur dæmt",
+    "Description": "úr hebresku; Drottinn hefur dæmt",
     "Gender": "M"
   },
   {
@@ -2161,7 +2161,7 @@
   },
   {
     "Name": "Jósteinn",
-    "Description": "jór: hestur, og steinn",
+    "Description": "jór; hestur, og steinn",
     "Gender": "M"
   },
   {
@@ -2186,12 +2186,12 @@
   },
   {
     "Name": "Jörundur",
-    "Description": "norrænt nafn af jara: orrusta. Líkleg merking stríðsmaður",
+    "Description": "norrænt nafn af jara; orrusta. Líkleg merking stríðsmaður",
     "Gender": "M"
   },
   {
     "Name": "Kalman eða Kalmann",
-    "Description": "úr írsku: lítil dúfa",
+    "Description": "úr írsku; lítil dúfa",
     "Gender": "M"
   },
   {
@@ -2226,12 +2226,12 @@
   },
   {
     "Name": "Klemens",
-    "Description": "úr latínu: mildur. 23/11. heilagur Klemens frá Alexandríu",
+    "Description": "úr latínu; mildur. 23/11. heilagur Klemens frá Alexandríu",
     "Gender": "M"
   },
   {
     "Name": "Klængur",
-    "Description": "norrænt nafn: fastheldinn",
+    "Description": "norrænt nafn; fastheldinn",
     "Gender": "M"
   },
   {
@@ -2251,7 +2251,7 @@
   },
   {
     "Name": "Konráð",
-    "Description": "úr þýsku: djarfráður maður",
+    "Description": "úr þýsku; djarfráður maður",
     "Gender": "M"
   },
   {
@@ -2261,7 +2261,7 @@
   },
   {
     "Name": "Kornelíus",
-    "Description": "rómverskt ættarnafn: göfugur, virtur",
+    "Description": "rómverskt ættarnafn; göfugur, virtur",
     "Gender": "M"
   },
   {
@@ -2271,12 +2271,12 @@
   },
   {
     "Name": "Kristberg",
-    "Description": "Kristur og -bergur: bjargvættur",
+    "Description": "Kristur og -bergur; bjargvættur",
     "Gender": "M"
   },
   {
     "Name": "Kristbergur",
-    "Description": "Kristur og -bergur: bjargvættur",
+    "Description": "Kristur og -bergur; bjargvættur",
     "Gender": "M"
   },
   {
@@ -2306,7 +2306,7 @@
   },
   {
     "Name": "Kristján",
-    "Description": "úr grísku: kristinn maður. Tíu danakonungar hafa borið þetta nafn, og stuðlað að vinsældum þess hér á landi. Kristján Eldjárn, forseti Íslands (1968-1980",
+    "Description": "úr grísku; kristinn maður. Tíu danakonungar hafa borið þetta nafn, og stuðlað að vinsældum þess hér á landi. Kristján Eldjárn, forseti Íslands (1968-1980",
     "Gender": "M"
   },
   {
@@ -2326,7 +2326,7 @@
   },
   {
     "Name": "Kristmar",
-    "Description": "Kristur og -mar: frægur",
+    "Description": "Kristur og -mar; frægur",
     "Gender": "M"
   },
   {
@@ -2361,7 +2361,7 @@
   },
   {
     "Name": "Lárus",
-    "Description": "úr latínu: lárviður",
+    "Description": "úr latínu; lárviður",
     "Gender": "M"
   },
   {
@@ -2376,12 +2376,12 @@
   },
   {
     "Name": "Lénharður",
-    "Description": "úr þýsku, Leónard: harður sem ljón",
+    "Description": "úr þýsku, Leónard; harður sem ljón",
     "Gender": "M"
   },
   {
     "Name": "Leó",
-    "Description": "úr latínu: ljón. 11/4. Leó mikli, páfi",
+    "Description": "úr latínu; ljón. 11/4. Leó mikli, páfi",
     "Gender": "M"
   },
   {
@@ -2391,7 +2391,7 @@
   },
   {
     "Name": "Liljar",
-    "Description": "Nafn þetta er myndað af kvennafninu Lilja og viðskeytinu -ar: hermaður",
+    "Description": "Nafn þetta er myndað af kvennafninu Lilja og viðskeytinu -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -2406,7 +2406,7 @@
   },
   {
     "Name": "Lúðvík",
-    "Description": "úr þýsku, sama nafn og Hlöðver: vígamaður",
+    "Description": "úr þýsku, sama nafn og Hlöðver; vígamaður",
     "Gender": "M"
   },
   {
@@ -2421,7 +2421,7 @@
   },
   {
     "Name": "Lýður",
-    "Description": "úr þýsku og dönsku: þjóðhetja",
+    "Description": "úr þýsku og dönsku; þjóðhetja",
     "Gender": "M"
   },
   {
@@ -2431,12 +2431,12 @@
   },
   {
     "Name": "Magni",
-    "Description": "af megin: máttur, styrkir. Magni hét sonur Þórs",
+    "Description": "af megin; máttur, styrkir. Magni hét sonur Þórs",
     "Gender": "M"
   },
   {
     "Name": "Magnús",
-    "Description": "úr latínu: mikill. 16/4. Magnús helgi, Orkneyjarjarl",
+    "Description": "úr latínu; mikill. 16/4. Magnús helgi, Orkneyjarjarl",
     "Gender": "M"
   },
   {
@@ -2456,7 +2456,7 @@
   },
   {
     "Name": "Margeir",
-    "Description": "mar: hestur, eða sjór, og -geir: spjót, vopn",
+    "Description": "mar; hestur, eða sjór, og -geir; spjót, vopn",
     "Gender": "M"
   },
   {
@@ -2466,7 +2466,7 @@
   },
   {
     "Name": "Marías",
-    "Description": "líklega skylt Maríus: sjómaður",
+    "Description": "líklega skylt Maríus; sjómaður",
     "Gender": "M"
   },
   {
@@ -2476,17 +2476,17 @@
   },
   {
     "Name": "Maríus",
-    "Description": "úr latínu: sjómaður",
+    "Description": "úr latínu; sjómaður",
     "Gender": "M"
   },
   {
     "Name": "Markús",
-    "Description": "úr latínu, dregið af nafni hernaðarguðsins Mars. 25/4. Markús guðspjallarmaður. Af nafninu Markús er dregið ættarnafnið Marx: Karl Marx (1818-1883)",
+    "Description": "úr latínu, dregið af nafni hernaðarguðsins Mars. 25/4. Markús guðspjallarmaður. Af nafninu Markús er dregið ættarnafnið Marx; Karl Marx (1818-1883)",
     "Gender": "M"
   },
   {
     "Name": "Marteinn",
-    "Description": "úr latínu: herskár eða hugaður. 11/11. Marteinn helgi, biskup í Tours",
+    "Description": "úr latínu; herskár eða hugaður. 11/11. Marteinn helgi, biskup í Tours",
     "Gender": "M"
   },
   {
@@ -2496,7 +2496,7 @@
   },
   {
     "Name": "Matthías",
-    "Description": "grísk mynd hebreska nafnsins Mattheus: gjöf Guðs. Sr. Matthías Jochumsson, höfundur þjóðsöngs Íslendinga (1835-1920). 24/2. Matthías postuli",
+    "Description": "grísk mynd hebreska nafnsins Mattheus; gjöf Guðs. Sr. Matthías Jochumsson, höfundur þjóðsöngs Íslendinga (1835-1920). 24/2. Matthías postuli",
     "Gender": "M"
   },
   {
@@ -2506,7 +2506,7 @@
   },
   {
     "Name": "Mikael",
-    "Description": "hebreska: hver er líkur Guði? (Dan. 12,1). 29/9. Mikaelsmessa: Mikael erkiengill",
+    "Description": "hebreska; hver er líkur Guði? (Dan. 12,1). 29/9. Mikaelsmessa; Mikael erkiengill",
     "Gender": "M"
   },
   {
@@ -2526,7 +2526,7 @@
   },
   {
     "Name": "Natan",
-    "Description": "hebreska: gjöf Guðs. (2. Sam. 12)",
+    "Description": "hebreska; gjöf Guðs. (2. Sam. 12)",
     "Gender": "M"
   },
   {
@@ -2536,7 +2536,7 @@
   },
   {
     "Name": "Nikulás",
-    "Description": "úr grísku: sigur lýðsins. 6/12. Nikulás biskup frá Mýra, sem gefið hefur jólasveinunum nafn (: Sankti Kláus)",
+    "Description": "úr grísku; sigur lýðsins. 6/12. Nikulás biskup frá Mýra, sem gefið hefur jólasveinunum nafn (; Sankti Kláus)",
     "Gender": "M"
   },
   {
@@ -2546,7 +2546,7 @@
   },
   {
     "Name": "Njáll",
-    "Description": "úr írsku: hetja. Njáll á Bergþórshvoli",
+    "Description": "úr írsku; hetja. Njáll á Bergþórshvoli",
     "Gender": "M"
   },
   {
@@ -2561,7 +2561,7 @@
   },
   {
     "Name": "Nói",
-    "Description": "úr hebresku: langlífur (1. Mós. 6,9)",
+    "Description": "úr hebresku; langlífur (1. Mós. 6,9)",
     "Gender": "M"
   },
   {
@@ -2626,12 +2626,12 @@
   },
   {
     "Name": "Ólafur",
-    "Description": "norrænt nafn: Áleifur: erfingi forfeðra. 29/7. Ólafur helgi, Noregskonungur",
+    "Description": "norrænt nafn; Áleifur; erfingi forfeðra. 29/7. Ólafur helgi, Noregskonungur",
     "Gender": "M"
   },
   {
     "Name": "Olgeir",
-    "Description": "ef til vill dönsk mynd nafnsins Hólmgeir, eða norrænt nafn: af Alu: vörn og -geri: spjót",
+    "Description": "ef til vill dönsk mynd nafnsins Hólmgeir, eða norrænt nafn; af Alu; vörn og -geri; spjót",
     "Gender": "M"
   },
   {
@@ -2666,7 +2666,7 @@
   },
   {
     "Name": "Óskar",
-    "Description": "úr írsku: andstæðingur",
+    "Description": "úr írsku; andstæðingur",
     "Gender": "M"
   },
   {
@@ -2676,7 +2676,7 @@
   },
   {
     "Name": "Ósvaldur",
-    "Description": "úr ensku, sama nafn og Ásvaldur: máttur, veldi goðanna",
+    "Description": "úr ensku, sama nafn og Ásvaldur; máttur, veldi goðanna",
     "Gender": "M"
   },
   {
@@ -2691,17 +2691,17 @@
   },
   {
     "Name": "Ottó",
-    "Description": "úr þýsku: auðugur",
+    "Description": "úr þýsku; auðugur",
     "Gender": "M"
   },
   {
     "Name": "Páll",
-    "Description": "úr latínu: lítill. 29/6. Páll postuli",
+    "Description": "úr latínu; lítill. 29/6. Páll postuli",
     "Gender": "M"
   },
   {
     "Name": "Pálmar",
-    "Description": "samsett nafn: Páll og Mar(grét)",
+    "Description": "samsett nafn; Páll og Mar(grét)",
     "Gender": "M"
   },
   {
@@ -2716,7 +2716,7 @@
   },
   {
     "Name": "Pétur",
-    "Description": "úr grísku petros: klettur sem er þýðing arameiska nafnsins Kefas (Matt. 16, 18). 29/6. Pétur postuli",
+    "Description": "úr grísku petros; klettur sem er þýðing arameiska nafnsins Kefas (Matt. 16, 18). 29/6. Pétur postuli",
     "Gender": "M"
   },
   {
@@ -2736,7 +2736,7 @@
   },
   {
     "Name": "Ragnar",
-    "Description": "norrænt, af rögn: máttarvöld, goð, og -ar: hermaður. Ragnar konungur loðbrók",
+    "Description": "norrænt, af rögn; máttarvöld, goð, og -ar; hermaður. Ragnar konungur loðbrók",
     "Gender": "M"
   },
   {
@@ -2756,7 +2756,7 @@
   },
   {
     "Name": "Reimar",
-    "Description": "úr þýsku, reginn og -mar: goð, frægur",
+    "Description": "úr þýsku, reginn og -mar; goð, frægur",
     "Gender": "M"
   },
   {
@@ -2766,7 +2766,7 @@
   },
   {
     "Name": "Ríkharður",
-    "Description": "úr þýsku: voldugur",
+    "Description": "úr þýsku; voldugur",
     "Gender": "M"
   },
   {
@@ -2776,27 +2776,27 @@
   },
   {
     "Name": "Rósmundur",
-    "Description": "Rós og -mundur: gjöf eða vörn",
+    "Description": "Rós og -mundur; gjöf eða vörn",
     "Gender": "M"
   },
   {
     "Name": "Rúdolf",
-    "Description": "þýskt nafn: Hróðólfur, frægur úlfur",
+    "Description": "þýskt nafn; Hróðólfur, frægur úlfur",
     "Gender": "M"
   },
   {
     "Name": "Rúnar",
-    "Description": "úr írsku: elskaður, ástmögur",
+    "Description": "úr írsku; elskaður, ástmögur",
     "Gender": "M"
   },
   {
     "Name": "Runólfur",
-    "Description": "rún: leyndardómur og úlfur",
+    "Description": "rún; leyndardómur og úlfur",
     "Gender": "M"
   },
   {
     "Name": "Rúrik",
-    "Description": "úr rússnesku, sama nafn og Hrærekur: frægur höfðingi",
+    "Description": "úr rússnesku, sama nafn og Hrærekur; frægur höfðingi",
     "Gender": "M"
   },
   {
@@ -2821,17 +2821,17 @@
   },
   {
     "Name": "Salómon",
-    "Description": "hebreska, dregið af Shalom: friður. Salómon konungur (2. Sam. 12, 24)",
+    "Description": "hebreska, dregið af Shalom; friður. Salómon konungur (2. Sam. 12, 24)",
     "Gender": "M"
   },
   {
     "Name": "Salvar",
-    "Description": "dregið af kvenmannsnafninu Salvör: vernd hússins",
+    "Description": "dregið af kvenmannsnafninu Salvör; vernd hússins",
     "Gender": "M"
   },
   {
     "Name": "Samúel",
-    "Description": "hebreska: Guð hefur bænheyrt (1. Sam. 1, 20)",
+    "Description": "hebreska; Guð hefur bænheyrt (1. Sam. 1, 20)",
     "Gender": "M"
   },
   {
@@ -2861,7 +2861,7 @@
   },
   {
     "Name": "Sesar",
-    "Description": "(Cæsar) rómerskt ættarnafn, sem heitin keisari og Zar (: Rússakeisari) eru dregin af",
+    "Description": "(Cæsar) rómerskt ættarnafn, sem heitin keisari og Zar (; Rússakeisari) eru dregin af",
     "Gender": "M"
   },
   {
@@ -2876,7 +2876,7 @@
   },
   {
     "Name": "Sigfinnur",
-    "Description": "orrustu Finnur (: maður)",
+    "Description": "orrustu Finnur (; maður)",
     "Gender": "M"
   },
   {
@@ -3046,7 +3046,7 @@
   },
   {
     "Name": "Sigurlinni",
-    "Description": "sigur og linni: ormur",
+    "Description": "sigur og linni; ormur",
     "Gender": "M"
   },
   {
@@ -3116,7 +3116,7 @@
   },
   {
     "Name": "Sindri",
-    "Description": "af so. sindura: ljóma, gneista. Dvergsheiti. Sindri hét maður á 13. öld. Hefur verið notað að skírnarheiti á þessari öld",
+    "Description": "af so. sindura; ljóma, gneista. Dvergsheiti. Sindri hét maður á 13. öld. Hefur verið notað að skírnarheiti á þessari öld",
     "Gender": "M"
   },
   {
@@ -3156,7 +3156,7 @@
   },
   {
     "Name": "Símon",
-    "Description": "grísk mynd hebreska nafnsins Simeon: sá sem hlustar",
+    "Description": "grísk mynd hebreska nafnsins Simeon; sá sem hlustar",
     "Gender": "M"
   },
   {
@@ -3201,7 +3201,7 @@
   },
   {
     "Name": "Skarphéðinn",
-    "Description": "skarpur og héðinn: skinnfeldur. Skarphéðinn Njálsson á Bergþórshvoli",
+    "Description": "skarpur og héðinn; skinnfeldur. Skarphéðinn Njálsson á Bergþórshvoli",
     "Gender": "M"
   },
   {
@@ -3431,7 +3431,7 @@
   },
   {
     "Name": "Sófus",
-    "Description": "úr grísku: vitur",
+    "Description": "úr grísku; vitur",
     "Gender": "M"
   },
   {
@@ -3441,7 +3441,7 @@
   },
   {
     "Name": "Sólberg",
-    "Description": "sól- og bergur: bjargvættur",
+    "Description": "sól- og bergur; bjargvættur",
     "Gender": "M"
   },
   {
@@ -3496,7 +3496,7 @@
   },
   {
     "Name": "Stefán",
-    "Description": "úr grísku: sigursveigur,blómsveigur, kóróna. 26/12. Stefán frumvottur (Post. 6,8)",
+    "Description": "úr grísku; sigursveigur,blómsveigur, kóróna. 26/12. Stefán frumvottur (Post. 6,8)",
     "Gender": "M"
   },
   {
@@ -3506,7 +3506,7 @@
   },
   {
     "Name": "Steinar",
-    "Description": "steinn og -ar: hermaður",
+    "Description": "steinn og -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -3531,7 +3531,7 @@
   },
   {
     "Name": "Steingrímur",
-    "Description": "Steinn og Grímur: dulbúinn maður",
+    "Description": "Steinn og Grímur; dulbúinn maður",
     "Gender": "M"
   },
   {
@@ -3611,7 +3611,7 @@
   },
   {
     "Name": "Sturlaugur",
-    "Description": "stur = styrr: orrusta. Bjartur í orrustu",
+    "Description": "stur = styrr; orrusta. Bjartur í orrustu",
     "Gender": "M"
   },
   {
@@ -3891,12 +3891,12 @@
   },
   {
     "Name": "Sölvi",
-    "Description": "annað hvort dregið af Sal-(: hús) og -vér: hetja, verndari, eða: fölleitur maður",
+    "Description": "annað hvort dregið af Sal-(; hús) og -vér; hetja, verndari, eða; fölleitur maður",
     "Gender": "M"
   },
   {
     "Name": "Sören",
-    "Description": "úr dönsku, ummyndun latneska nafnsins Severin: strangur",
+    "Description": "úr dönsku, ummyndun latneska nafnsins Severin; strangur",
     "Gender": "M"
   },
   {
@@ -3926,7 +3926,7 @@
   },
   {
     "Name": "Theódór",
-    "Description": "úr grísku: gjöf Guðs",
+    "Description": "úr grísku; gjöf Guðs",
     "Gender": "M"
   },
   {
@@ -3936,7 +3936,7 @@
   },
   {
     "Name": "Tjörvi",
-    "Description": "tjör: vopn",
+    "Description": "tjör; vopn",
     "Gender": "M"
   },
   {
@@ -4036,7 +4036,7 @@
   },
   {
     "Name": "Úlfar",
-    "Description": "úlfur og -ar: hermaður",
+    "Description": "úlfur og -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -4066,7 +4066,7 @@
   },
   {
     "Name": "Úlfljótur",
-    "Description": "úlfur og ljótur: bjartur. Úlfljótur, fyrsti lögsögumaður íslenska þjóðveldisins",
+    "Description": "úlfur og ljótur; bjartur. Úlfljótur, fyrsti lögsögumaður íslenska þjóðveldisins",
     "Gender": "M"
   },
   {
@@ -4081,12 +4081,12 @@
   },
   {
     "Name": "Úlrik",
-    "Description": "úr þýsku: erfingi óðals",
+    "Description": "úr þýsku; erfingi óðals",
     "Gender": "M"
   },
   {
     "Name": "Unnar",
-    "Description": "dregið af Unnur: alda, eða af so. unna: elska",
+    "Description": "dregið af Unnur; alda, eða af so. unna; elska",
     "Gender": "M"
   },
   {
@@ -4146,7 +4146,7 @@
   },
   {
     "Name": "Valbjörn",
-    "Description": "val-: annað hvort valur: fugl, eða vígavöllur",
+    "Description": "val-; annað hvort valur; fugl, eða vígavöllur",
     "Gender": "M"
   },
   {
@@ -4161,7 +4161,7 @@
   },
   {
     "Name": "Valdimar",
-    "Description": "úr rússnesku Vladimir: voldugur höfðingi",
+    "Description": "úr rússnesku Vladimir; voldugur höfðingi",
     "Gender": "M"
   },
   {
@@ -4186,7 +4186,7 @@
   },
   {
     "Name": "Valgeir",
-    "Description": "valur og geir: vopn",
+    "Description": "valur og geir; vopn",
     "Gender": "M"
   },
   {
@@ -4246,7 +4246,7 @@
   },
   {
     "Name": "Vébjörn",
-    "Description": "vé: helgistaður, helgidómur, og björn. Björn helgaður véum. Kemur örsjaldan fyrir að fornu og varðveitist í örnefninu Vébjarnarnesi",
+    "Description": "vé; helgistaður, helgidómur, og björn. Björn helgaður véum. Kemur örsjaldan fyrir að fornu og varðveitist í örnefninu Vébjarnarnesi",
     "Gender": "M"
   },
   {
@@ -4306,7 +4306,7 @@
   },
   {
     "Name": "Vernharður",
-    "Description": "úr þýsku (Werner): sterkur verndari",
+    "Description": "úr þýsku (Werner); sterkur verndari",
     "Gender": "M"
   },
   {
@@ -4371,7 +4371,7 @@
   },
   {
     "Name": "Viðar",
-    "Description": "Viður: skógur og -ar: hermaður",
+    "Description": "Viður; skógur og -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -4416,7 +4416,7 @@
   },
   {
     "Name": "Vífill",
-    "Description": "óviss merking, e.t.v. skylt víf: kona. Vífill var þræll Ingólfs",
+    "Description": "óviss merking, e.t.v. skylt víf; kona. Vífill var þræll Ingólfs",
     "Gender": "M"
   },
   {
@@ -4431,7 +4431,7 @@
   },
   {
     "Name": "Viggó",
-    "Description": "dönsk mynd nafnsins Vöggur: með vaggandi göngulag",
+    "Description": "dönsk mynd nafnsins Vöggur; með vaggandi göngulag",
     "Gender": "M"
   },
   {
@@ -4441,7 +4441,7 @@
   },
   {
     "Name": "Víghvatur",
-    "Description": "fús til víga. (Sömu merkingar eru nöfnin: Gunnhvatur, Fólkhvatur og Sighvatur). Kemur fyrir frá því um 1300 og fram á 18. öld",
+    "Description": "fús til víga. (Sömu merkingar eru nöfnin; Gunnhvatur, Fólkhvatur og Sighvatur). Kemur fyrir frá því um 1300 og fram á 18. öld",
     "Gender": "M"
   },
   {
@@ -4496,17 +4496,17 @@
   },
   {
     "Name": "Vikar",
-    "Description": "ef til vill: víkingur",
+    "Description": "ef til vill; víkingur",
     "Gender": "M"
   },
   {
     "Name": "Víkingur",
-    "Description": "víkingur. Orðið mun dregið af Víkinni,Óslóarfirði í Noregi eða: sá sem leynist í víkum og vogum",
+    "Description": "víkingur. Orðið mun dregið af Víkinni,Óslóarfirði í Noregi eða; sá sem leynist í víkum og vogum",
     "Gender": "M"
   },
   {
     "Name": "Viktor",
-    "Description": "úr latínu: sigurvegari. Vigfús, af víg: orrusta, og fús. Herskár",
+    "Description": "úr latínu; sigurvegari. Vigfús, af víg; orrusta, og fús. Herskár",
     "Gender": "M"
   },
   {
@@ -4521,7 +4521,7 @@
   },
   {
     "Name": "Vilbergur",
-    "Description": "vil: dregið af vild, virðing: frábær hjálp",
+    "Description": "vil; dregið af vild, virðing; frábær hjálp",
     "Gender": "M"
   },
   {
@@ -4556,7 +4556,7 @@
   },
   {
     "Name": "Vilmar",
-    "Description": "úr þýsku: frábær hermaður",
+    "Description": "úr þýsku; frábær hermaður",
     "Gender": "M"
   },
   {
@@ -4606,7 +4606,7 @@
   },
   {
     "Name": "Yngvi",
-    "Description": "sama og Ingvi og Ingi: konungur. Annað nafn Freys. Ættmenn hans á konungsstóli Svíþjóðar voru kallaðir Ynglingar",
+    "Description": "sama og Ingvi og Ingi; konungur. Annað nafn Freys. Ættmenn hans á konungsstóli Svíþjóðar voru kallaðir Ynglingar",
     "Gender": "M"
   },
   {
@@ -4641,7 +4641,7 @@
   },
   {
     "Name": "Þiðrik",
-    "Description": "úr þýsku: þjóð, ríkur = voldugur",
+    "Description": "úr þýsku; þjóð, ríkur = voldugur",
     "Gender": "M"
   },
   {
@@ -4676,7 +4676,7 @@
   },
   {
     "Name": "Þjóðólfur",
-    "Description": "þjóð og Úlfur. Tíðkaðist frá upphafi og fram á 16. öld og kemur fyrir í manntalinu 1910. Kemur fyrir í ýmsum örnefnum: Þjóðólfshaga, Þjóðólfshöfn, Þjóðólfsholti, Þjóðólfstungu",
+    "Description": "þjóð og Úlfur. Tíðkaðist frá upphafi og fram á 16. öld og kemur fyrir í manntalinu 1910. Kemur fyrir í ýmsum örnefnum; Þjóðólfshaga, Þjóðólfshöfn, Þjóðólfsholti, Þjóðólfstungu",
     "Gender": "M"
   },
   {
@@ -4701,7 +4701,7 @@
   },
   {
     "Name": "Þórarinn",
-    "Description": "Þór og -arinn: heimili",
+    "Description": "Þór og -arinn; heimili",
     "Gender": "M"
   },
   {
@@ -4721,12 +4721,12 @@
   },
   {
     "Name": "Þórður",
-    "Description": "af Þór-varður: sem Þór verndar",
+    "Description": "af Þór-varður; sem Þór verndar",
     "Gender": "M"
   },
   {
     "Name": "Þorfinnur",
-    "Description": "Þór og Finnur: maður Þórs",
+    "Description": "Þór og Finnur; maður Þórs",
     "Gender": "M"
   },
   {
@@ -4761,7 +4761,7 @@
   },
   {
     "Name": "Þorgrímur",
-    "Description": "Þór og Grímur: dulbúinn maður",
+    "Description": "Þór og Grímur; dulbúinn maður",
     "Gender": "M"
   },
   {
@@ -4771,17 +4771,17 @@
   },
   {
     "Name": "Þórhallur",
-    "Description": "Þór og Hallur: steinn",
+    "Description": "Þór og Hallur; steinn",
     "Gender": "M"
   },
   {
     "Name": "Þórir",
-    "Description": "Þór og vér: bardagamaður",
+    "Description": "Þór og vér; bardagamaður",
     "Gender": "M"
   },
   {
     "Name": "Þorkell",
-    "Description": "Þór-ketill: hjálmur Þórs",
+    "Description": "Þór-ketill; hjálmur Þórs",
     "Gender": "M"
   },
   {
@@ -4901,7 +4901,7 @@
   },
   {
     "Name": "Ævar",
-    "Description": "æva: ævarandi, ávallt -ar: hermaður",
+    "Description": "æva; ævarandi, ávallt -ar; hermaður",
     "Gender": "M"
   },
   {
@@ -4916,17 +4916,17 @@
   },
   {
     "Name": "Ölver",
-    "Description": "af öl: vernd, heill, og -ver: maður",
+    "Description": "af öl; vernd, heill, og -ver; maður",
     "Gender": "M"
   },
   {
     "Name": "Ölvir",
-    "Description": "sama og Ölver: gæfumaður",
+    "Description": "sama og Ölver; gæfumaður",
     "Gender": "M"
   },
   {
     "Name": "Önundur",
-    "Description": "e.t.v. ön: forfaðuir og vindur: stríðsmaðu",
+    "Description": "e.t.v. ön; forfaðuir og vindur; stríðsmaðu",
     "Gender": "M"
   },
   {
@@ -4936,7 +4936,7 @@
   },
   {
     "Name": "Örlygur",
-    "Description": "ef til vill af örlygi: orrusta, eða skjaldarheiti",
+    "Description": "ef til vill af örlygi; orrusta, eða skjaldarheiti",
     "Gender": "M"
   },
   {
@@ -4976,7 +4976,7 @@
   },
   {
     "Name": "Adríana",
-    "Description": "af Adrían: frá Hadria.",
+    "Description": "af Adrían; frá Hadria.",
     "Gender": "F"
   },
   {
@@ -5006,12 +5006,12 @@
   },
   {
     "Name": "Ágústa",
-    "Description": "dregið af Ágúst: göfug, virðuleg.",
+    "Description": "dregið af Ágúst; göfug, virðuleg.",
     "Gender": "F"
   },
   {
     "Name": "Alberta",
-    "Description": "dregið af Albert: eðalborin, eða göfug og björt.",
+    "Description": "dregið af Albert; eðalborin, eða göfug og björt.",
     "Gender": "F"
   },
   {
@@ -5051,17 +5051,17 @@
   },
   {
     "Name": "Álfeiður eða Álfheiður",
-    "Description": "Álf- og -heiður: björt, skínandi.",
+    "Description": "Álf- og -heiður; björt, skínandi.",
     "Gender": "F"
   },
   {
     "Name": "Álfhildur",
-    "Description": "Álf- og -hildur: orrusta eða valkyrja.",
+    "Description": "Álf- og -hildur; orrusta eða valkyrja.",
     "Gender": "F"
   },
   {
     "Name": "Alfífa",
-    "Description": "úr ensku: gjöf álfa.",
+    "Description": "úr ensku; gjöf álfa.",
     "Gender": "F"
   },
   {
@@ -5096,17 +5096,17 @@
   },
   {
     "Name": "Alma",
-    "Description": "úr latínu: mild, nærandi.",
+    "Description": "úr latínu; mild, nærandi.",
     "Gender": "F"
   },
   {
     "Name": "Amalía",
-    "Description": "úr þýsku, líkleg merking: iðin.",
+    "Description": "úr þýsku, líkleg merking; iðin.",
     "Gender": "F"
   },
   {
     "Name": "Amanda",
-    "Description": "úr latínu: elskuverð.",
+    "Description": "úr latínu; elskuverð.",
     "Gender": "F"
   },
   {
@@ -5146,7 +5146,7 @@
   },
   {
     "Name": "Anna",
-    "Description": "úr hebresku Hanna: náð, yndi. 26/7. heilög Anna, móðir Maríu meyjar.",
+    "Description": "úr hebresku Hanna; náð, yndi. 26/7. heilög Anna, móðir Maríu meyjar.",
     "Gender": "F"
   },
   {
@@ -5156,7 +5156,7 @@
   },
   {
     "Name": "Antonía",
-    "Description": "úr latínu: ómetanleg, sama nafn og Anton.",
+    "Description": "úr latínu; ómetanleg, sama nafn og Anton.",
     "Gender": "F"
   },
   {
@@ -5186,7 +5186,7 @@
   },
   {
     "Name": "Árna",
-    "Description": "af Árni: Örn.",
+    "Description": "af Árni; Örn.",
     "Gender": "F"
   },
   {
@@ -5236,7 +5236,7 @@
   },
   {
     "Name": "Arngunnur",
-    "Description": "Arn- og -gunnur: orrusta.",
+    "Description": "Arn- og -gunnur; orrusta.",
     "Gender": "F"
   },
   {
@@ -5276,7 +5276,7 @@
   },
   {
     "Name": "Arnóra",
-    "Description": "af Arnór: Örn og Þór.",
+    "Description": "af Arnór; Örn og Þór.",
     "Gender": "F"
   },
   {
@@ -5291,12 +5291,12 @@
   },
   {
     "Name": "Arnþrúður",
-    "Description": "Arn- og Þrúður, sterk kona, (kvenkenning): húsfreyja.",
+    "Description": "Arn- og Þrúður, sterk kona, (kvenkenning); húsfreyja.",
     "Gender": "F"
   },
   {
     "Name": "Áróra",
-    "Description": "úr latínu: morgunroði, morgungyðjan.",
+    "Description": "úr latínu; morgunroði, morgungyðjan.",
     "Gender": "F"
   },
   {
@@ -5381,7 +5381,7 @@
   },
   {
     "Name": "Ást-",
-    "Description": "forliður samsettra nafna, sem upphaflega mun hafa verið Ás-: guðlegur, goðkynja.",
+    "Description": "forliður samsettra nafna, sem upphaflega mun hafa verið Ás-; guðlegur, goðkynja.",
     "Gender": "F"
   },
   {
@@ -5541,7 +5541,7 @@
   },
   {
     "Name": "Bergrán",
-    "Description": "samsett af Berg- sem merkir hjálp, frelsun, og -rán, tengt no. ræna: skynsemi, meðvitund. Sumir telja að nafnið sé hingað komið úr norræni goðafræði og þá frá sjávargyðjunni Rán sem safnaði saman þeim sem höfðu drukknað.",
+    "Description": "samsett af Berg- sem merkir hjálp, frelsun, og -rán, tengt no. ræna; skynsemi, meðvitund. Sumir telja að nafnið sé hingað komið úr norræni goðafræði og þá frá sjávargyðjunni Rán sem safnaði saman þeim sem höfðu drukknað.",
     "Gender": "F"
   },
   {
@@ -5566,7 +5566,7 @@
   },
   {
     "Name": "Berta",
-    "Description": "úr þýsku: hin bjarta.",
+    "Description": "úr þýsku; hin bjarta.",
     "Gender": "F"
   },
   {
@@ -5591,7 +5591,7 @@
   },
   {
     "Name": "Bjargey",
-    "Description": "björtun og -ey: auðna, gæfa.",
+    "Description": "björtun og -ey; auðna, gæfa.",
     "Gender": "F"
   },
   {
@@ -5616,17 +5616,17 @@
   },
   {
     "Name": "Bjarngerður",
-    "Description": "Björn og -gerður: vernd.",
+    "Description": "Björn og -gerður; vernd.",
     "Gender": "F"
   },
   {
     "Name": "Bjarnheiður",
-    "Description": "björn og -heiður: heiðskír, björt.",
+    "Description": "björn og -heiður; heiðskír, björt.",
     "Gender": "F"
   },
   {
     "Name": "Bjarnveig",
-    "Description": "styrkur bjarnar, -veig merkir að líkindum styrkur, getur líka verið dregið af orðinu vé: helgidómur.",
+    "Description": "styrkur bjarnar, -veig merkir að líkindum styrkur, getur líka verið dregið af orðinu vé; helgidómur.",
     "Gender": "F"
   },
   {
@@ -5671,12 +5671,12 @@
   },
   {
     "Name": "Borghildur",
-    "Description": "borg: vörn, hjálp, og -hildur, stríð, barátta, eða valkyrja, kona.",
+    "Description": "borg; vörn, hjálp, og -hildur, stríð, barátta, eða valkyrja, kona.",
     "Gender": "F"
   },
   {
     "Name": "Borgþóra",
-    "Description": "af Borgþór: vígi Þórs.",
+    "Description": "af Borgþór; vígi Þórs.",
     "Gender": "F"
   },
   {
@@ -5821,7 +5821,7 @@
   },
   {
     "Name": "Dóróthea eða Dórótea",
-    "Description": "úr grísku: gjöf Guðs. 6/2. heilög Dóróthea, d. 304.",
+    "Description": "úr grísku; gjöf Guðs. 6/2. heilög Dóróthea, d. 304.",
     "Gender": "F"
   },
   {
@@ -5946,7 +5946,7 @@
   },
   {
     "Name": "Eiríka",
-    "Description": "af Eiríkur: ávallt voldugur.",
+    "Description": "af Eiríkur; ávallt voldugur.",
     "Gender": "F"
   },
   {
@@ -6031,7 +6031,7 @@
   },
   {
     "Name": "Elma",
-    "Description": "dönsk stytting á algengri nafnasamstæðu: Else Marie.",
+    "Description": "dönsk stytting á algengri nafnasamstæðu; Else Marie.",
     "Gender": "F"
   },
   {
@@ -6046,7 +6046,7 @@
   },
   {
     "Name": "Elva",
-    "Description": "úr spænsku: hin hvíta. Líka skrifað Elfa.",
+    "Description": "úr spænsku; hin hvíta. Líka skrifað Elfa.",
     "Gender": "F"
   },
   {
@@ -6056,7 +6056,7 @@
   },
   {
     "Name": "Emilía",
-    "Description": "af Emil: vingjarnleg.",
+    "Description": "af Emil; vingjarnleg.",
     "Gender": "F"
   },
   {
@@ -6196,7 +6196,7 @@
   },
   {
     "Name": "Finnbjörg",
-    "Description": "hjálp Finna (:manna).",
+    "Description": "hjálp Finna (;manna).",
     "Gender": "F"
   },
   {
@@ -6206,7 +6206,7 @@
   },
   {
     "Name": "Finnborg",
-    "Description": "vörn Finna (:manna).",
+    "Description": "vörn Finna (;manna).",
     "Gender": "F"
   },
   {
@@ -6256,7 +6256,7 @@
   },
   {
     "Name": "Frið-",
-    "Description": "algengur forliður nafna dreginn af friður, eða af -fríður, skyldur so. frjá: elska.",
+    "Description": "algengur forliður nafna dreginn af friður, eða af -fríður, skyldur so. frjá; elska.",
     "Gender": "F"
   },
   {
@@ -6296,7 +6296,7 @@
   },
   {
     "Name": "Friðlaug",
-    "Description": "friður og -laug: björt.",
+    "Description": "friður og -laug; björt.",
     "Gender": "F"
   },
   {
@@ -6316,7 +6316,7 @@
   },
   {
     "Name": "Friðrika",
-    "Description": "af Friðrik: friðsamur höfðingi.",
+    "Description": "af Friðrik; friðsamur höfðingi.",
     "Gender": "F"
   },
   {
@@ -6386,7 +6386,7 @@
   },
   {
     "Name": "Gerða",
-    "Description": "stytting á -gerður: vörn.",
+    "Description": "stytting á -gerður; vörn.",
     "Gender": "F"
   },
   {
@@ -6396,17 +6396,17 @@
   },
   {
     "Name": "Gestheiður",
-    "Description": "samsett af Gestur og -heiður: björt.",
+    "Description": "samsett af Gestur og -heiður; björt.",
     "Gender": "F"
   },
   {
     "Name": "Gestný",
-    "Description": "samsett af Gestur og -ný: sem yngir.",
+    "Description": "samsett af Gestur og -ný; sem yngir.",
     "Gender": "F"
   },
   {
     "Name": "Gestrún",
-    "Description": "samsett af Gestur og -rún: leyndardómur, vinátta.",
+    "Description": "samsett af Gestur og -rún; leyndardómur, vinátta.",
     "Gender": "F"
   },
   {
@@ -6426,12 +6426,12 @@
   },
   {
     "Name": "Gíslína",
-    "Description": "af Gísli: gísl eða geisli: ör.",
+    "Description": "af Gísli; gísl eða geisli; ör.",
     "Gender": "F"
   },
   {
     "Name": "Gísllaug",
-    "Description": "samsett af Gísli og -laug: björt.",
+    "Description": "samsett af Gísli og -laug; björt.",
     "Gender": "F"
   },
   {
@@ -6441,12 +6441,12 @@
   },
   {
     "Name": "Gíslunn",
-    "Description": "Gísli og -unn: sem ann, elskar.",
+    "Description": "Gísli og -unn; sem ann, elskar.",
     "Gender": "F"
   },
   {
     "Name": "Gná",
-    "Description": "Ungt nafn hérlendis. Nafnið er sótt í norræna goðafræði en Gná var ein af ásynjum. Hún var í sendiferðum fyrir Frigg og reið hestinum Hófvarpni um loft og lög. Uppruni er óviss en hefur helst verið tengdur við nafnorðið gnýr: dynur, hávaði,og sögnina að gnýja: dynja, bylja.",
+    "Description": "Ungt nafn hérlendis. Nafnið er sótt í norræna goðafræði en Gná var ein af ásynjum. Hún var í sendiferðum fyrir Frigg og reið hestinum Hófvarpni um loft og lög. Uppruni er óviss en hefur helst verið tengdur við nafnorðið gnýr; dynur, hávaði,og sögnina að gnýja; dynja, bylja.",
     "Gender": "F"
   },
   {
@@ -6456,7 +6456,7 @@
   },
   {
     "Name": "Gríma",
-    "Description": "dulbúin, eða: nótt.",
+    "Description": "dulbúin, eða; nótt.",
     "Gender": "F"
   },
   {
@@ -6496,7 +6496,7 @@
   },
   {
     "Name": "Guðfinna",
-    "Description": "finna (: kona), helguð Guði.",
+    "Description": "finna (; kona), helguð Guði.",
     "Gender": "F"
   },
   {
@@ -6646,7 +6646,7 @@
   },
   {
     "Name": "Gyða",
-    "Description": "Nafn þetta er leitt af nafnorðinu goð. (önnur þýðing: stytting á Gyðríður.",
+    "Description": "Nafn þetta er leitt af nafnorðinu goð. (önnur þýðing; stytting á Gyðríður.",
     "Gender": "F"
   },
   {
@@ -6756,7 +6756,7 @@
   },
   {
     "Name": "Heiða",
-    "Description": "stytting á -heiður: björt.",
+    "Description": "stytting á -heiður; björt.",
     "Gender": "F"
   },
   {
@@ -6796,7 +6796,7 @@
   },
   {
     "Name": "Heiðveig",
-    "Description": "úr pólsku: Jadwiga, hin sigursæla.",
+    "Description": "úr pólsku; Jadwiga, hin sigursæla.",
     "Gender": "F"
   },
   {
@@ -6806,7 +6806,7 @@
   },
   {
     "Name": "Helena",
-    "Description": "úr grísku: hin bjarta, skæra. Helena fagra í Tróju. 18/8. Helena, móðir Konstantínusar mikla keisara, d. 303. Íslensk mynd nafnsins er Elín.",
+    "Description": "úr grísku; hin bjarta, skæra. Helena fagra í Tróju. 18/8. Helena, móðir Konstantínusar mikla keisara, d. 303. Íslensk mynd nafnsins er Elín.",
     "Gender": "F"
   },
   {
@@ -6881,7 +6881,7 @@
   },
   {
     "Name": "Hilma",
-    "Description": "af Hilmar: hermaður með hjálm.",
+    "Description": "af Hilmar; hermaður með hjálm.",
     "Gender": "F"
   },
   {
@@ -6896,7 +6896,7 @@
   },
   {
     "Name": "Hjálmfríður",
-    "Description": "hjálmur og fegurð: sú sem hjálmi ann.",
+    "Description": "hjálmur og fegurð; sú sem hjálmi ann.",
     "Gender": "F"
   },
   {
@@ -6906,7 +6906,7 @@
   },
   {
     "Name": "Hjörleif",
-    "Description": "af Hjörleifur: erfingi sverðsins.",
+    "Description": "af Hjörleifur; erfingi sverðsins.",
     "Gender": "F"
   },
   {
@@ -6916,12 +6916,12 @@
   },
   {
     "Name": "Hlaðgerður",
-    "Description": "hlað: Gull eða silfurlagður borði, og -gerður: vernd, kvenkenning.",
+    "Description": "hlað; Gull eða silfurlagður borði, og -gerður; vernd, kvenkenning.",
     "Gender": "F"
   },
   {
     "Name": "Hlédís",
-    "Description": "hlé: skjól, vörn.",
+    "Description": "hlé; skjól, vörn.",
     "Gender": "F"
   },
   {
@@ -6956,7 +6956,7 @@
   },
   {
     "Name": "Hrafnhildur",
-    "Description": "hrafn og hildur: styrjöld, kona.",
+    "Description": "hrafn og hildur; styrjöld, kona.",
     "Gender": "F"
   },
   {
@@ -7011,7 +7011,7 @@
   },
   {
     "Name": "Hulda",
-    "Description": "annað hvort úr dönsku: hin leynda, eða úr hebresku (2. Kon. 22,14) Hulda spákona.",
+    "Description": "annað hvort úr dönsku; hin leynda, eða úr hebresku (2. Kon. 22,14) Hulda spákona.",
     "Gender": "F"
   },
   {
@@ -7026,7 +7026,7 @@
   },
   {
     "Name": "Högna",
-    "Description": "af Högni: verndari.",
+    "Description": "af Högni; verndari.",
     "Gender": "F"
   },
   {
@@ -7036,7 +7036,7 @@
   },
   {
     "Name": "Ída",
-    "Description": "úr dönsku, af Iða: hin iðna.",
+    "Description": "úr dönsku, af Iða; hin iðna.",
     "Gender": "F"
   },
   {
@@ -7111,7 +7111,7 @@
   },
   {
     "Name": "Ingiríður",
-    "Description": "fegurð konungs, eða: sú sem konungur ann.",
+    "Description": "fegurð konungs, eða; sú sem konungur ann.",
     "Gender": "F"
   },
   {
@@ -7126,7 +7126,7 @@
   },
   {
     "Name": "Ingveldur",
-    "Description": "af Inghildur: orrusta konungs.",
+    "Description": "af Inghildur; orrusta konungs.",
     "Gender": "F"
   },
   {
@@ -7136,12 +7136,12 @@
   },
   {
     "Name": "Írena",
-    "Description": "úr grísku: friður. 5/4 heilög Írena píslarvottur, d. 304.",
+    "Description": "úr grísku; friður. 5/4 heilög Írena píslarvottur, d. 304.",
     "Gender": "F"
   },
   {
     "Name": "Íris",
-    "Description": "úr grísku: regnbogi.",
+    "Description": "úr grísku; regnbogi.",
     "Gender": "F"
   },
   {
@@ -7177,7 +7177,7 @@
   {
     "Name": "Ísold – Erlent að uppruna",
     "Description": "Isolda",
-    "Gender": "Isold"
+    "Gender": "Isold, myndað úr is ís og vald ráða, stjórna.\",F"
   },
   {
     "Name": "Ívör",
@@ -7191,7 +7191,7 @@
   },
   {
     "Name": "Jana",
-    "Description": "stytting á Kristjana: kristin.",
+    "Description": "stytting á Kristjana; kristin.",
     "Gender": "F"
   },
   {
@@ -7211,7 +7211,7 @@
   },
   {
     "Name": "Jarþrúður",
-    "Description": "af jara: orrusta og þrúður: (sterk) kona.",
+    "Description": "af jara; orrusta og þrúður; (sterk) kona.",
     "Gender": "F"
   },
   {
@@ -7236,7 +7236,7 @@
   },
   {
     "Name": "Jóhanna",
-    "Description": "úr hebresku: Drottinn er náðugur. 30/5. heilög Jóhann af Örk (d. 1431).",
+    "Description": "úr hebresku; Drottinn er náðugur. 30/5. heilög Jóhann af Örk (d. 1431).",
     "Gender": "F"
   },
   {
@@ -7271,7 +7271,7 @@
   },
   {
     "Name": "Jóney",
-    "Description": "Jón og -ey: auðna, gæfa.",
+    "Description": "Jón og -ey; auðna, gæfa.",
     "Gender": "F"
   },
   {
@@ -7296,7 +7296,7 @@
   },
   {
     "Name": "Jóreiður",
-    "Description": "dregið af jöfurr: konungur, og heiður: birta konungs.",
+    "Description": "dregið af jöfurr; konungur, og heiður; birta konungs.",
     "Gender": "F"
   },
   {
@@ -7306,17 +7306,17 @@
   },
   {
     "Name": "Jósefína",
-    "Description": "dregið af Jósef: Drottinn mun auka.",
+    "Description": "dregið af Jósef; Drottinn mun auka.",
     "Gender": "F"
   },
   {
     "Name": "Júdít",
-    "Description": "úr hebresku: gyðingakona.",
+    "Description": "úr hebresku; gyðingakona.",
     "Gender": "F"
   },
   {
     "Name": "Júlía",
-    "Description": "úr latínu, dregið af Júlíus: unglingur.",
+    "Description": "úr latínu, dregið af Júlíus; unglingur.",
     "Gender": "F"
   },
   {
@@ -7341,7 +7341,7 @@
   },
   {
     "Name": "Kaja",
-    "Description": "í Skandinavíu er þetta nafn dregið af Katarina. Mögulega dregið af fornnorsku kaða, sem þýðir hen: hæna. Frá einhverju Norðurlanda er um að ræða gælumynd nafnsins",
+    "Description": "í Skandinavíu er þetta nafn dregið af Katarina. Mögulega dregið af fornnorsku kaða, sem þýðir hen; hæna. Frá einhverju Norðurlanda er um að ræða gælumynd nafnsins",
     "Gender": "F"
   },
   {
@@ -7351,17 +7351,17 @@
   },
   {
     "Name": "Kamilla",
-    "Description": "íslensk mynd af Camilla, úr latínu: ambátt við helgiþjónustu. (Kamilla, upprunalega Arabískt og þýðir fullkomnun.",
+    "Description": "íslensk mynd af Camilla, úr latínu; ambátt við helgiþjónustu. (Kamilla, upprunalega Arabískt og þýðir fullkomnun.",
     "Gender": "F"
   },
   {
     "Name": "Kamma",
-    "Description": "úr dönsku, stytting á algengri nafnasamsetningu: Karen Margrét.",
+    "Description": "úr dönsku, stytting á algengri nafnasamsetningu; Karen Margrét.",
     "Gender": "F"
   },
   {
     "Name": "Kara",
-    "Description": "stytting á Karítas, eða úr latínu: cara: kæra.",
+    "Description": "stytting á Karítas, eða úr latínu; cara; kæra.",
     "Gender": "F"
   },
   {
@@ -7371,7 +7371,7 @@
   },
   {
     "Name": "Karítas",
-    "Description": "úr latínu: kærleikur. (Fides: trú, spes: von).",
+    "Description": "úr latínu; kærleikur. (Fides; trú, spes; von).",
     "Gender": "F"
   },
   {
@@ -7401,7 +7401,7 @@
   },
   {
     "Name": "Katrín",
-    "Description": "úr grísku: hin hreina. 25/11. Katrín helga, verndardýrlingur heimspekinnar.",
+    "Description": "úr grísku; hin hreina. 25/11. Katrín helga, verndardýrlingur heimspekinnar.",
     "Gender": "F"
   },
   {
@@ -7531,12 +7531,12 @@
   },
   {
     "Name": "Lára",
-    "Description": "úr latínu, af Lárus: lárviður.",
+    "Description": "úr latínu, af Lárus; lárviður.",
     "Gender": "F"
   },
   {
     "Name": "Lárey",
-    "Description": "samsett af forliðnum Lár-, lárviður og viðliðnum -ey: auðna.",
+    "Description": "samsett af forliðnum Lár-, lárviður og viðliðnum -ey; auðna.",
     "Gender": "F"
   },
   {
@@ -7551,7 +7551,7 @@
   },
   {
     "Name": "Laugheiður",
-    "Description": "samsett, báðir liðir nafnsins merkja hið sama: björt og hrein.",
+    "Description": "samsett, báðir liðir nafnsins merkja hið sama; björt og hrein.",
     "Gender": "F"
   },
   {
@@ -7576,7 +7576,7 @@
   },
   {
     "Name": "Lilja",
-    "Description": "lilja. Önnur merking: Lifandi trú.",
+    "Description": "lilja. Önnur merking; Lifandi trú.",
     "Gender": "F"
   },
   {
@@ -7596,7 +7596,7 @@
   },
   {
     "Name": "Linda",
-    "Description": "úr þýsku: linditré.",
+    "Description": "úr þýsku; linditré.",
     "Gender": "F"
   },
   {
@@ -7606,7 +7606,7 @@
   },
   {
     "Name": "Líney",
-    "Description": "lín, hör, og -ey: auðna.",
+    "Description": "lín, hör, og -ey; auðna.",
     "Gender": "F"
   },
   {
@@ -7651,7 +7651,7 @@
   },
   {
     "Name": "Ljótunn",
-    "Description": "ljót: björt, og -unn: elskuð.",
+    "Description": "ljót; björt, og -unn; elskuð.",
     "Gender": "F"
   },
   {
@@ -7676,12 +7676,12 @@
   },
   {
     "Name": "Loftveig",
-    "Description": "samsett af Loftur og -veig: styrkur.",
+    "Description": "samsett af Loftur og -veig; styrkur.",
     "Gender": "F"
   },
   {
     "Name": "Lovísa",
-    "Description": "úr frönsku, af Louis: Lúðvík: vígamaður.",
+    "Description": "úr frönsku, af Louis; Lúðvík; vígamaður.",
     "Gender": "F"
   },
   {
@@ -7691,12 +7691,12 @@
   },
   {
     "Name": "Lydía",
-    "Description": "latína: frá Lydíu (landsvæði í Litlu Asíu).",
+    "Description": "latína; frá Lydíu (landsvæði í Litlu Asíu).",
     "Gender": "F"
   },
   {
     "Name": "Lyngheiður",
-    "Description": "lyng og -heiður: björt.",
+    "Description": "lyng og -heiður; björt.",
     "Gender": "F"
   },
   {
@@ -7711,7 +7711,7 @@
   },
   {
     "Name": "Magdalena",
-    "Description": "úr grísku, viðurnefni: frá Magdölum (í Galíleu).",
+    "Description": "úr grísku, viðurnefni; frá Magdölum (í Galíleu).",
     "Gender": "F"
   },
   {
@@ -7721,7 +7721,7 @@
   },
   {
     "Name": "Magna",
-    "Description": "úr latínu: mikil, máttug.",
+    "Description": "úr latínu; mikil, máttug.",
     "Gender": "F"
   },
   {
@@ -7786,7 +7786,7 @@
   },
   {
     "Name": "Máney",
-    "Description": "kvennkynsútgáfa af nafninu Máni: tungl, máni, með viðliðnum -ey: ey.",
+    "Description": "kvennkynsútgáfa af nafninu Máni; tungl, máni, með viðliðnum -ey; ey.",
     "Gender": "F"
   },
   {
@@ -7796,7 +7796,7 @@
   },
   {
     "Name": "Margrét",
-    "Description": "úr grísku: perla. 20/7. heilög Margrét frá Antíokíu (d. 300), á hana var heitið í barnsnauð.",
+    "Description": "úr grísku; perla. 20/7. heilög Margrét frá Antíokíu (d. 300), á hana var heitið í barnsnauð.",
     "Gender": "F"
   },
   {
@@ -7811,7 +7811,7 @@
   },
   {
     "Name": "María",
-    "Description": "grísk mynd hebreska nafnsins Mirjam: hin fagra. 2/2. kyndilmessa. 25/3. Boðunardagur Maríu.",
+    "Description": "grísk mynd hebreska nafnsins Mirjam; hin fagra. 2/2. kyndilmessa. 25/3. Boðunardagur Maríu.",
     "Gender": "F"
   },
   {
@@ -7821,7 +7821,7 @@
   },
   {
     "Name": "Marin eða Marín",
-    "Description": "úr latínu Marina: af hafi.",
+    "Description": "úr latínu Marina; af hafi.",
     "Gender": "F"
   },
   {
@@ -7831,17 +7831,17 @@
   },
   {
     "Name": "Marta",
-    "Description": "úr hebresku: húsfreyja. (Lúkas 10,38).",
+    "Description": "úr hebresku; húsfreyja. (Lúkas 10,38).",
     "Gender": "F"
   },
   {
     "Name": "Matthea",
-    "Description": "af Matthías: gjöf Guðs.",
+    "Description": "af Matthías; gjöf Guðs.",
     "Gender": "F"
   },
   {
     "Name": "Matthildur",
-    "Description": "úr þýsku: hetja. 14/3. heilög Matthildur, þýsk drottning d. 968.",
+    "Description": "úr þýsku; hetja. 14/3. heilög Matthildur, þýsk drottning d. 968.",
     "Gender": "F"
   },
   {
@@ -7856,7 +7856,7 @@
   },
   {
     "Name": "Melkorka",
-    "Description": "úr írsku: ambátt Curcags dýrlings. Melkorka var móðir Ólafs pá í Hjarðarholti.",
+    "Description": "úr írsku; ambátt Curcags dýrlings. Melkorka var móðir Ólafs pá í Hjarðarholti.",
     "Gender": "F"
   },
   {
@@ -7866,7 +7866,7 @@
   },
   {
     "Name": "Mist",
-    "Description": "er fornt valkyrjuheiti. Giskað hefur verið á tengsl við sænsku sögnin mista, í dönsku miste: missa, tapa, og að nafnið merki þá ´sú sem veldur missi´.",
+    "Description": "er fornt valkyrjuheiti. Giskað hefur verið á tengsl við sænsku sögnin mista, í dönsku miste; missa, tapa, og að nafnið merki þá ´sú sem veldur missi´.",
     "Gender": "F"
   },
   {
@@ -7891,7 +7891,7 @@
   },
   {
     "Name": "Móníka",
-    "Description": "úr grísku: ein. 4/5. Móníka, móðir Ágústínusar kirkjuföður, d. 387.",
+    "Description": "úr grísku; ein. 4/5. Móníka, móðir Ágústínusar kirkjuföður, d. 387.",
     "Gender": "F"
   },
   {
@@ -7911,7 +7911,7 @@
   },
   {
     "Name": "Nanna",
-    "Description": "úr norrænni goðafræði. Sennileg merking: hin hugrakka. Nanna hét kona Baldurs.",
+    "Description": "úr norrænni goðafræði. Sennileg merking; hin hugrakka. Nanna hét kona Baldurs.",
     "Gender": "F"
   },
   {
@@ -7926,12 +7926,12 @@
   },
   {
     "Name": "Nikólína",
-    "Description": "úr dönsku af Nikulás: sigur lýðsins.",
+    "Description": "úr dönsku af Nikulás; sigur lýðsins.",
     "Gender": "F"
   },
   {
     "Name": "Nína",
-    "Description": "úr rússnesku: Anna litla.",
+    "Description": "úr rússnesku; Anna litla.",
     "Gender": "F"
   },
   {
@@ -7941,7 +7941,7 @@
   },
   {
     "Name": "Norma",
-    "Description": "úr latínu: regla.",
+    "Description": "úr latínu; regla.",
     "Gender": "F"
   },
   {
@@ -7986,17 +7986,17 @@
   },
   {
     "Name": "Oktavía",
-    "Description": "út latínu: hin áttunda.",
+    "Description": "út latínu; hin áttunda.",
     "Gender": "F"
   },
   {
     "Name": "Ólafía",
-    "Description": "af Ólafur: sem erfir forfeðurna.",
+    "Description": "af Ólafur; sem erfir forfeðurna.",
     "Gender": "F"
   },
   {
     "Name": "Olga",
-    "Description": "úr rússnesku: Helga.",
+    "Description": "úr rússnesku; Helga.",
     "Gender": "F"
   },
   {
@@ -8006,7 +8006,7 @@
   },
   {
     "Name": "Ólöf",
-    "Description": "sama nafn og Ólafur: sú sem erfir forfeðurna. Ólöf ríka Loftsdóttir á Skarði.",
+    "Description": "sama nafn og Ólafur; sú sem erfir forfeðurna. Ólöf ríka Loftsdóttir á Skarði.",
     "Gender": "F"
   },
   {
@@ -8026,7 +8026,7 @@
   },
   {
     "Name": "Pálfríður",
-    "Description": "samsett af Páll og -fríður: sem Páll ann.",
+    "Description": "samsett af Páll og -fríður; sem Páll ann.",
     "Gender": "F"
   },
   {
@@ -8061,7 +8061,7 @@
   },
   {
     "Name": "Petra",
-    "Description": "úr dönsku, hliðstætt Pétur: klettur.",
+    "Description": "úr dönsku, hliðstætt Pétur; klettur.",
     "Gender": "F"
   },
   {
@@ -8082,11 +8082,11 @@
   {
     "Name": "Petrún eða Pétrún",
     "Description": "samsett af Pétur og -rún",
-    "Gender": "leyndardómur."
+    "Gender": "leyndardómur.\",F"
   },
   {
     "Name": "Ráðhildur",
-    "Description": "ráð og hildur: kona eða styrjöld.",
+    "Description": "ráð og hildur; kona eða styrjöld.",
     "Gender": "F"
   },
   {
@@ -8126,7 +8126,7 @@
   },
   {
     "Name": "Randíður",
-    "Description": "af Ragnfríður: fegurð goðanna eða sú sem goðin unna.",
+    "Description": "af Ragnfríður; fegurð goðanna eða sú sem goðin unna.",
     "Gender": "F"
   },
   {
@@ -8141,7 +8141,7 @@
   },
   {
     "Name": "Regína",
-    "Description": "úr latínu: drottning. 5/9 heilög Regína píslarvottur d. 251.",
+    "Description": "úr latínu; drottning. 5/9 heilög Regína píslarvottur d. 251.",
     "Gender": "F"
   },
   {
@@ -8161,27 +8161,27 @@
   },
   {
     "Name": "Rósa",
-    "Description": "úr latínu: rós. Rósa Guðmundsdóttir, Vatnsenda-Rósa (d. 1855).",
+    "Description": "úr latínu; rós. Rósa Guðmundsdóttir, Vatnsenda-Rósa (d. 1855).",
     "Gender": "F"
   },
   {
     "Name": "Rósalind",
-    "Description": "úr ensku og þýsku: rós og -linda, linditré.",
+    "Description": "úr ensku og þýsku; rós og -linda, linditré.",
     "Gender": "F"
   },
   {
     "Name": "Rósmunda",
-    "Description": "samsett af Rósa og -munda: gjöf eða vörn.",
+    "Description": "samsett af Rósa og -munda; gjöf eða vörn.",
     "Gender": "F"
   },
   {
     "Name": "Rósbjörg",
-    "Description": "samsett af Rósa og -björg: hjálp.",
+    "Description": "samsett af Rósa og -björg; hjálp.",
     "Gender": "F"
   },
   {
     "Name": "Rósborg",
-    "Description": "samsett af Rósa og -borg: vörn.",
+    "Description": "samsett af Rósa og -borg; vörn.",
     "Gender": "F"
   },
   {
@@ -8191,7 +8191,7 @@
   },
   {
     "Name": "Róshildur",
-    "Description": "samsett af Rósa og -hildur: kona, eða styrjöld.",
+    "Description": "samsett af Rósa og -hildur; kona, eða styrjöld.",
     "Gender": "F"
   },
   {
@@ -8206,7 +8206,7 @@
   },
   {
     "Name": "Rúna",
-    "Description": "stytting á nöfnum, sem enda á -rún, eða dregið af no. rúna: trúnaðarvinur, eiginkona.",
+    "Description": "stytting á nöfnum, sem enda á -rún, eða dregið af no. rúna; trúnaðarvinur, eiginkona.",
     "Gender": "F"
   },
   {
@@ -8236,7 +8236,7 @@
   },
   {
     "Name": "Salóme",
-    "Description": "úr hebresku, af Salómon: friður. Salóme hét móðursystir Jesú (Mark. 15,40).",
+    "Description": "úr hebresku, af Salómon; friður. Salóme hét móðursystir Jesú (Mark. 15,40).",
     "Gender": "F"
   },
   {
@@ -8266,7 +8266,7 @@
   },
   {
     "Name": "Sif",
-    "Description": "brúður, eiginkona. Ath. að eignarfall þessa nafn er: Sifjar. Sif hét kona Þórs.",
+    "Description": "brúður, eiginkona. Ath. að eignarfall þessa nafn er; Sifjar. Sif hét kona Þórs.",
     "Gender": "F"
   },
   {
@@ -8291,7 +8291,7 @@
   },
   {
     "Name": "Sigríður",
-    "Description": "sama og Sigfríður: fegurð orrustunnar, eða sú sem orrustum ann.",
+    "Description": "sama og Sigfríður; fegurð orrustunnar, eða sú sem orrustum ann.",
     "Gender": "F"
   },
   {
@@ -8371,7 +8371,7 @@
   },
   {
     "Name": "Sigurlín",
-    "Description": "samsett af Sigur- og -lín: hör, kvenkenning.",
+    "Description": "samsett af Sigur- og -lín; hör, kvenkenning.",
     "Gender": "F"
   },
   {
@@ -8421,7 +8421,7 @@
   },
   {
     "Name": "Silfá",
-    "Description": "heimildir eru um nafnið frá síðari hluta 18. aldar og var það ritað Silpha. Nafnmyndin Sylva þekkist í Noregi sem hliðarmynd af Sylvia en er einnig talin mynduð beint af latneska nafnorðinu silva: skógur. Íslenska nafnið Silfá er lagað eftir þeirri nafnmynd.",
+    "Description": "heimildir eru um nafnið frá síðari hluta 18. aldar og var það ritað Silpha. Nafnmyndin Sylva þekkist í Noregi sem hliðarmynd af Sylvia en er einnig talin mynduð beint af latneska nafnorðinu silva; skógur. Íslenska nafnið Silfá er lagað eftir þeirri nafnmynd.",
     "Gender": "F"
   },
   {
@@ -8431,7 +8431,7 @@
   },
   {
     "Name": "Silvía",
-    "Description": "úr latínu, silva: skógur.",
+    "Description": "úr latínu, silva; skógur.",
     "Gender": "F"
   },
   {
@@ -8491,7 +8491,7 @@
   },
   {
     "Name": "Soffía",
-    "Description": "úr grísku, sofía: viska. 30/9. heilög Soffía, d. 138.",
+    "Description": "úr grísku, sofía; viska. 30/9. heilög Soffía, d. 138.",
     "Gender": "F"
   },
   {
@@ -8586,7 +8586,7 @@
   },
   {
     "Name": "Stella",
-    "Description": "úr latínu: stjarna.",
+    "Description": "úr latínu; stjarna.",
     "Gender": "F"
   },
   {
@@ -8621,7 +8621,7 @@
   },
   {
     "Name": "Sunnefa eða Sunneva",
-    "Description": "úr ensku: gjöf sólar. 8/7. heilög Sunnefa, verndardýrlingur Björgvinjar.",
+    "Description": "úr ensku; gjöf sólar. 8/7. heilög Sunnefa, verndardýrlingur Björgvinjar.",
     "Gender": "F"
   },
   {
@@ -8691,7 +8691,7 @@
   },
   {
     "Name": "Sveinbjörg",
-    "Description": "samsett af Sveinn og -björg: hjálp sveinsins.",
+    "Description": "samsett af Sveinn og -björg; hjálp sveinsins.",
     "Gender": "F"
   },
   {
@@ -8771,12 +8771,12 @@
   },
   {
     "Name": "Thea",
-    "Description": "stytting á Theódóra eða Dóróthea: gjöf Guðs.",
+    "Description": "stytting á Theódóra eða Dóróthea; gjöf Guðs.",
     "Gender": "F"
   },
   {
     "Name": "Theódóra",
-    "Description": "úr grísku: gjöf Guðs. 28/4. Theódóra píslarvottur, d. 304.",
+    "Description": "úr grísku; gjöf Guðs. 28/4. Theódóra píslarvottur, d. 304.",
     "Gender": "F"
   },
   {
@@ -8791,7 +8791,7 @@
   },
   {
     "Name": "Tómasína",
-    "Description": "af Tómas: tvíburi.",
+    "Description": "af Tómas; tvíburi.",
     "Gender": "F"
   },
   {
@@ -8811,7 +8811,7 @@
   },
   {
     "Name": "Úlfheiður",
-    "Description": "samsett af Úlfur og -heiður: björt.",
+    "Description": "samsett af Úlfur og -heiður; björt.",
     "Gender": "F"
   },
   {
@@ -8841,12 +8841,12 @@
   },
   {
     "Name": "Urður",
-    "Description": "ein örlaganornanna: fortíðin, hinar voru: Verðandi: Samtíðin og Skuld: framtíðin.",
+    "Description": "ein örlaganornanna; fortíðin, hinar voru; Verðandi; Samtíðin og Skuld; framtíðin.",
     "Gender": "F"
   },
   {
     "Name": "Úrsúla",
-    "Description": "úr latínu: ung birna. 21/10. heilög Úrsúla, d. 238.",
+    "Description": "úr latínu; ung birna. 21/10. heilög Úrsúla, d. 238.",
     "Gender": "F"
   },
   {
@@ -8886,7 +8886,7 @@
   },
   {
     "Name": "Valva",
-    "Description": "líklega afbökun á völva: spákona.",
+    "Description": "líklega afbökun á völva; spákona.",
     "Gender": "F"
   },
   {
@@ -8901,7 +8901,7 @@
   },
   {
     "Name": "Veiga",
-    "Description": "stytting á -veig: styrkur.",
+    "Description": "stytting á -veig; styrkur.",
     "Gender": "F"
   },
   {
@@ -8911,17 +8911,17 @@
   },
   {
     "Name": "Vera",
-    "Description": "rússneska: og merkir: trú.",
+    "Description": "rússneska; og merkir; trú.",
     "Gender": "F"
   },
   {
     "Name": "Verna",
-    "Description": "úr þýsku: sterk, öflug vernd.",
+    "Description": "úr þýsku; sterk, öflug vernd.",
     "Gender": "F"
   },
   {
     "Name": "Veróníka",
-    "Description": "úr grísku: sem veitir sigur. Síðar snúið upp á latínu og þýtt sem sönn mynd. 12/7. heilög Veróníka.",
+    "Description": "úr grísku; sem veitir sigur. Síðar snúið upp á latínu og þýtt sem sönn mynd. 12/7. heilög Veróníka.",
     "Gender": "F"
   },
   {
@@ -8931,12 +8931,12 @@
   },
   {
     "Name": "Viktoría",
-    "Description": "úr latínu: hin sigursæla. Viktoría Englandsdrottning (1819-1901).",
+    "Description": "úr latínu; hin sigursæla. Viktoría Englandsdrottning (1819-1901).",
     "Gender": "F"
   },
   {
     "Name": "Vilborg",
-    "Description": "úr fornensku: hjálpfús.",
+    "Description": "úr fornensku; hjálpfús.",
     "Gender": "F"
   },
   {
@@ -8956,7 +8956,7 @@
   },
   {
     "Name": "Vilhelmína",
-    "Description": "af Vilhjálmur: virðulegur hjálmur.",
+    "Description": "af Vilhjálmur; virðulegur hjálmur.",
     "Gender": "F"
   },
   {
@@ -8986,7 +8986,7 @@
   },
   {
     "Name": "Ylfa",
-    "Description": "úr sænsku: úlfynja.",
+    "Description": "úr sænsku; úlfynja.",
     "Gender": "F"
   },
   {
@@ -9016,7 +9016,7 @@
   },
   {
     "Name": "Þjóðhildur",
-    "Description": "mikil -hildur: styrjöld eða valkyrja, kona.",
+    "Description": "mikil -hildur; styrjöld eða valkyrja, kona.",
     "Gender": "F"
   },
   {
@@ -9031,12 +9031,12 @@
   },
   {
     "Name": "Þórarna",
-    "Description": "sama nafn og Þórarinn: Þór og örn.",
+    "Description": "sama nafn og Þórarinn; Þór og örn.",
     "Gender": "F"
   },
   {
     "Name": "Þorbera",
-    "Description": "Þór og bera: birna.",
+    "Description": "Þór og bera; birna.",
     "Gender": "F"
   },
   {
@@ -9141,7 +9141,7 @@
   },
   {
     "Name": "Þyri",
-    "Description": "úr dönsku: helguð, eða vernduð af Þór. Þyri Danabót, drottning Gorms gamla í Hleiðru (10. öld).",
+    "Description": "úr dönsku; helguð, eða vernduð af Þór. Þyri Danabót, drottning Gorms gamla í Hleiðru (10. öld).",
     "Gender": "F"
   },
   {
@@ -9156,7 +9156,7 @@
   },
   {
     "Name": "Ögn",
-    "Description": "sennilega hliðstætt Agnar, af sömu rót og agi, ógn eða: agnarsmá.",
+    "Description": "sennilega hliðstætt Agnar, af sömu rót og agi, ógn eða; agnarsmá.",
     "Gender": "F"
   },
   {
@@ -9166,7 +9166,7 @@
   },
   {
     "Name": "Ösp",
-    "Description": "ösp.",
+    "Description": "Tréið ösp",
     "Gender": "F"
   }
 ]

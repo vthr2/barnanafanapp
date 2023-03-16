@@ -60,7 +60,6 @@ class MyAppState extends ChangeNotifier {
   void getNext() {
     j = Random().nextInt(jsonData.length);
     current = jsonData[j].toString();
-    //persons.add(current.toString());
     notifyListeners();
     print('check $current');
     flipped = false;
@@ -68,6 +67,7 @@ class MyAppState extends ChangeNotifier {
 
   void addPickedNames() {
     persons.add(current);
+    jsonData.remove(current);
     notifyListeners();
   }
 
@@ -175,7 +175,6 @@ class GeneratorPage extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text('Baby Names'),
           BigButton(pair: pair),
           SizedBox(height: 10),
           Row(
@@ -184,9 +183,8 @@ class GeneratorPage extends StatelessWidget {
               SizedBox(
                 child: ElevatedButton(
                   onPressed: () {
-                    //appState.initializeName();
-                    appState.getNext();
                     appState.addPickedNames();
+                    appState.getNext();
                   },
                   child: Text('Like'),
                 ),
@@ -238,7 +236,6 @@ class BigButton extends StatelessWidget {
           borderRadius: BorderRadius.circular(30.0),
         ));
 
-
     var fontStyle = theme.textTheme.displayMedium!.copyWith(
       color: theme.colorScheme.onSecondary,
       fontSize: 20,
@@ -279,14 +276,25 @@ class NamePage extends StatelessWidget {
   }
 }
 
-class CustomName extends StatelessWidget {
+class CustomName extends StatefulWidget {
+  @override
+  State<CustomName> createState() => _CustomName();
+}
+
+class _CustomName extends State<CustomName> {
   @override
   Widget build(BuildContext context) {
     var appState = context.watch<MyAppState>();
     var person_list = appState.persons;
     var custom_name = "";
+    var custom_description = "";
+    var custom_gender = "";
+    bool? maleValue = false;
+    bool? femaleValue = false;
 
-    TextEditingController text_controller = new TextEditingController();
+    TextEditingController text_controller1 = new TextEditingController();
+    TextEditingController text_controller2 = new TextEditingController();
+    TextEditingController text_controller3 = new TextEditingController();
     return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -294,16 +302,59 @@ class CustomName extends StatelessWidget {
           FractionallySizedBox(
             widthFactor: 0.3,
             child: TextField(
-              controller: text_controller,
+              controller: text_controller1,
               textAlign: TextAlign.center,
               onChanged: (text) {
                 custom_name = text;
               },
               onSubmitted: (text) {
                 appState.addCustomNames(custom_name);
-                text_controller.clear();
+                text_controller1.clear();
               },
             ),
+          ),
+          FractionallySizedBox(
+            widthFactor: 0.3,
+            child: TextField(
+              controller: text_controller2,
+              textAlign: TextAlign.center,
+              onChanged: (descr) {
+                custom_description = descr;
+              },
+              onSubmitted: (descr) {
+                appState.addCustomNames(custom_name);
+                text_controller2.clear();
+              },
+            ),
+          ),
+          CheckboxListTile(
+            title: new Center(child: new Text("Male")),
+            activeColor: Colors.black,
+            value: maleValue,
+            onChanged: (bool? newValue) {
+              custom_gender = 'M';
+            },
+          ),
+          CheckboxListTile(
+            title: new Center(child: new Text("Female")),
+            activeColor: Colors.black,
+            value: maleValue,
+            onChanged: (bool? newValue) {
+              custom_gender = 'M';
+            },
+          ),
+          SizedBox(height: 10),
+          SizedBox(
+            child: ElevatedButton(
+                onPressed: () {
+                  var element_to_add =
+                      "{Name: $custom_name, Description: $custom_description, Gender: $custom_gender}";
+                  appState.addCustomNames(element_to_add);
+                  text_controller1.clear();
+                  text_controller2.clear();
+                  text_controller3.clear();
+                },
+                child: Text("Submit")),
           ),
         ],
       ),

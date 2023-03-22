@@ -12,6 +12,12 @@ void main() {
   runApp(MyApp());
 }
 
+extension StringExtension on String {
+  String capitalize() {
+    return "${this[0].toUpperCase()}${this.substring(1).toLowerCase()}";
+  }
+}
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -33,6 +39,7 @@ class MyApp extends StatelessWidget {
 }
 
 class MyAppState extends ChangeNotifier {
+  //TODO: Fix hardcoding of current name
   var current = "{Name: Ljósbjört, Description: björt sem ljós., Gender: F}";
   var names = ["Li", "gu", "smith"];
   var temp = "";
@@ -123,10 +130,11 @@ class _MyHomePageState extends State<MyHomePage> {
                   icon: Icon(Icons.favorite),
                   label: Text('Names'),
                 ),
-                NavigationRailDestination(
-                  icon: Icon(Icons.settings_sharp),
-                  label: Text('Add'),
-                ),
+                // For custom names, currently unused
+                // NavigationRailDestination(
+                //   icon: Icon(Icons.settings_sharp),
+                //   label: Text('Add'),
+                // ),
               ],
               selectedIndex: selectedIndex,
               onDestinationSelected: (value) {
@@ -186,14 +194,14 @@ class GeneratorPage extends StatelessWidget {
                     appState.addPickedNames();
                     appState.getNext();
                   },
-                  child: Text('Like'),
+                  child: Text('Já'),
                 ),
               ),
               ElevatedButton(
                 onPressed: () {
                   appState.getNext();
                 },
-                child: Text("Don't Like"),
+                child: Text("Nei"),
               ),
             ],
           ),
@@ -213,10 +221,10 @@ class BigButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var split = pair.split(':');
+    var split = pair.split(': ');
     var name = split[1].split(',')[0];
-    var description = split[2].split(', Gender')[0];
-    var gender = split[3][1];
+    var description = split[2].split(', Gender')[0].toString().capitalize();
+    var gender = split[3][0];
     var theme = Theme.of(context);
     //description = description.capitalize();
     var color = theme.colorScheme.primary;
@@ -281,6 +289,7 @@ class CustomName extends StatefulWidget {
   State<CustomName> createState() => _CustomName();
 }
 
+/* Adding a custom name, currently unused */
 class _CustomName extends State<CustomName> {
   @override
   Widget build(BuildContext context) {

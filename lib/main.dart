@@ -145,7 +145,7 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
           ),
-          Expanded(
+          Flexible(
             child: Container(
               color: Theme.of(context).colorScheme.primaryContainer,
               child: page,
@@ -221,6 +221,7 @@ class BigButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // TODO: Make this more readable, should be able to fetch description from dictionary instead of splitting the string 
     var split = pair.split(': ');
     var name = split[1].split(',')[0];
     var description = split[2].split(', Gender')[0].toString().capitalize();
@@ -229,7 +230,6 @@ class BigButton extends StatelessWidget {
     //description = description.capitalize();
     var color = theme.colorScheme.primary;
     if (gender == 'F') {
-      print("yesyesyes");
       color = Color.fromARGB(198, 244, 168, 229);
     }
     var appState = context.watch<MyAppState>();
@@ -271,7 +271,8 @@ class NamePage extends StatelessWidget {
 
     return Align(
       alignment: Alignment.topLeft,
-      child: Expanded(
+      child: SingleChildScrollView (
+      child: Flexible(
         child: Wrap(
           spacing: 10,
           runSpacing: 10,
@@ -279,6 +280,7 @@ class NamePage extends StatelessWidget {
             for (var item in person_list) BigButton(pair: item),
           ],
         ),
+      ),
       ),
     );
   }

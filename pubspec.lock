@@ -91,14 +91,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  intl:
-    dependency: transitive
-    description:
-      name: intl
-      sha256: "910f85bce16fb5c6f614e117efa303e85a1731bb0081edf3604a2ae6e9a3cc91"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.17.0"
   js:
     dependency: transitive
     description:
@@ -192,14 +184,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
-  string_extension:
-    dependency: "direct main"
-    description:
-      name: string_extension
-      sha256: "197659071e8336526429fa0e5b892afc315cf4a074401860fd63131f98fbe323"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.1"
   string_scanner:
     dependency: transitive
     description:
@@ -242,4 +226,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=3.0.0-0 <4.0.0"
-  flutter: ">=1.17.0"
+  flutter: ">=1.16.0"

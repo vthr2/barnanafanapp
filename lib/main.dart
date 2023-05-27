@@ -269,7 +269,7 @@ class NamePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var appState = context.watch<MyAppState>();
-    var personList = appState.persons;
+    var personList = appState.persons ?? [];
 
     return Align(
       alignment: Alignment.topLeft,

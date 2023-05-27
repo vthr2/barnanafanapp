@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
 
 class MyAppState extends ChangeNotifier {
   //TODO: Fix hardcoding of current name
-  var current = "{Name: Ljósbjört, Description: björt sem ljós., Gender: F}";
+  var current = "{Name: Ljósbjöree, Description: björt sem ljós., Gender: F}";
   var names = ["Li", "gu", "smith"];
   var temp = "";
   var current_description = "test";

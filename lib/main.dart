@@ -118,38 +118,40 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       body: Row(
         children: [
-          SafeArea(
-            child: NavigationRail(
-              extended: false,
-              destinations: [
-                NavigationRailDestination(
-                  icon: Icon(Icons.home),
-                  label: Text('Pick'),
-                ),
-                NavigationRailDestination(
-                  icon: Icon(Icons.favorite),
-                  label: Text('Names'),
-                ),
-                // For custom names, currently unused
-                // NavigationRailDestination(
-                //   icon: Icon(Icons.settings_sharp),
-                //   label: Text('Add'),
-                // ),
-              ],
-              selectedIndex: selectedIndex,
-              onDestinationSelected: (value) {
-                print('selected: $value');
-                setState(() {
-                  selectedIndex = value;
-                });
-              },
+          SizedBox(
+            width: 72, // Width of the NavigationRail
+            child: SafeArea(
+              child: NavigationRail(
+                extended: false,
+                destinations: [
+                  NavigationRailDestination(
+                    icon: Icon(Icons.home),
+                    label: Text('Pick'),
+                  ),
+                  NavigationRailDestination(
+                    icon: Icon(Icons.favorite),
+                    label: Text('Names'),
+                  ),
+                  // For custom names, currently unused
+                  // NavigationRailDestination(
+                  //   icon: Icon(Icons.settings_sharp),
+                  //   label: Text('Add'),
+                  // ),
+                ],
+                selectedIndex: selectedIndex,
+                onDestinationSelected: (value) {
+                  print('selected: $value');
+                  setState(() {
+                    selectedIndex = value;
+                  });
+                },
+              ),
             ),
           ),
-          Flexible(
-            child: Container(
-              color: Theme.of(context).colorScheme.primaryContainer,
-              child: page,
-            ),
+          Container(
+            width: MediaQuery.of(context).size.width - 72, // Adjusted width based on NavigationRail
+            color: Theme.of(context).colorScheme.primaryContainer,
+            child: page,
           ),
         ],
       ),
@@ -267,20 +269,16 @@ class NamePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var appState = context.watch<MyAppState>();
-    var person_list = appState.persons;
+    var personList = appState.persons;
 
     return Align(
       alignment: Alignment.topLeft,
-      child: SingleChildScrollView (
-      child: Flexible(
+      child: SingleChildScrollView(
         child: Wrap(
           spacing: 10,
           runSpacing: 10,
-          children: [
-            for (var item in person_list) BigButton(pair: item),
-          ],
+          children: personList.map((item) => BigButton(pair: item)).toList(),
         ),
-      ),
       ),
     );
   }

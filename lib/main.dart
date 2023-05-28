@@ -213,38 +213,42 @@ class GeneratorPage extends StatelessWidget {
   }
 }
 
-class BigButton extends StatelessWidget {
-  const BigButton({
-    Key? key,
-    required this.pair,
-  }) : super(key: key);
+class BigButton extends StatefulWidget {
+  final String pair;
 
-  final pair;
+  const BigButton({Key? key, required this.pair}) : super(key: key);
+
+  @override
+  _BigButtonState createState() => _BigButtonState();
+}
+
+class _BigButtonState extends State<BigButton> {
+  bool flipped = false;
+
+  void flipCard() {
+    setState(() {
+      flipped = !flipped;
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
-    // TODO: Make this more readable, should be able to fetch description from dictionary instead of splitting the string 
-    var split = pair.split(': ');
+    var theme = Theme.of(context);
+    var split = widget.pair.split(': ');
     var name = split[1].split(',')[0];
     var description = split[2].split(', Gender')[0].toString().capitalize();
     var gender = split[3][0];
-    var theme = Theme.of(context);
-    //description = description.capitalize();
     var color = theme.colorScheme.primary;
     if (gender == 'F') {
       color = Color.fromARGB(198, 244, 168, 229);
     }
-    var appState = context.watch<MyAppState>();
-    var flipBoolean = appState.flipped;
-    var display_text = name;
-    if (flipBoolean == true) {
-      display_text = description;
-    }
+
     var boxStyle = ElevatedButton.styleFrom(
-        backgroundColor: color,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(30.0),
-        ));
+      backgroundColor: color,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(30.0),
+      ),
+    );
 
     var fontStyle = theme.textTheme.displayMedium!.copyWith(
       color: theme.colorScheme.onSecondary,
@@ -252,15 +256,16 @@ class BigButton extends StatelessWidget {
       fontWeight: FontWeight.bold,
     );
 
+    var displayText = flipped ? description : name;
+
     return SizedBox(
       width: 340,
       height: 200,
       child: ElevatedButton(
-          onPressed: () {
-            appState.flipCard();
-          },
-          style: boxStyle,
-          child: Text("$display_text", style: fontStyle)),
+        onPressed: flipCard,
+        style: boxStyle,
+        child: Text(displayText, style: fontStyle),
+      ),
     );
   }
 }

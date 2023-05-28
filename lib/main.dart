@@ -196,14 +196,14 @@ class GeneratorPage extends StatelessWidget {
                     appState.addPickedNames();
                     appState.getNext();
                   },
-                  child: Text('Já'),
+                  child: Text('Yes'),
                 ),
               ),
               ElevatedButton(
                 onPressed: () {
                   appState.getNext();
                 },
-                child: Text("Nei"),
+                child: Text("No"),
               ),
             ],
           ),
